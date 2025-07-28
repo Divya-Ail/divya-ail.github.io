@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Divya Ail"
-  avatar : "/assets/images/Divya_Ail_Photo.png"
+  avatar : "/assets/images/myphoto.png"
   bio    : "Researcher in Retinal Cell Biology"
   links:
     - label: "Website"
