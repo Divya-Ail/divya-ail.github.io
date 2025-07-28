@@ -1,9 +1,8 @@
 ---
 permalink: /research/
 title: "Research"
+classes: wide
 ---
-
-# <p align="justify">Your text here</p>
 
 ## **Research Projects**
 <p align="justify">My research focuses on unraveling the molecular and cellular mechanisms involved in genetic diseases. By gaining a deeper understanding of these fundamental processes, I strive to contribute to the development and testing of innovative therapies.</p>
