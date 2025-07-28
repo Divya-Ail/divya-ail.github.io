@@ -23,12 +23,13 @@ Volunteer teacher at Kaliyuva Mane orphanage in Mysore, India
 #### **Empowerment**
 General Secretary of Asha Foundation in Zurich, Switzerland
 <p align="justify">While I was working towards my PhD thesis in Zurich, from 2010-2014 I got involved with a charity organization called ‘Asha for Education – Zurich chapter’. ‘Asha for Education’ is a volunteer-based organization headquartered in California, USA with its branches operating all over the world. The goal of the organization is to conduct fundraising activities through awareness seminars, collaborations and events. The funds raised are used to support NGOs in India working on education projects mostly at grassroot levels, in isolated and far-flung regions, tribal regions and regions embroiled in political conflict. I have served at this organization in different capacities – as a volunteer working on co-ordination of projects, management and execution of fundraising events, as the editor of the newsletter and the annual report and for a long time as the general secretary of the association.</p>
+Read the reports here - (https://drive.google.com/file/d/1Suh_469_rdjXtxVYvuxwJunv3U8-IysF/view?usp=share_link) [Annual Report 2011](https://drive.google.com/file/d/1hXZnl9JJytk5HnTcpx9rArBjHgQAa-UE/view?usp=share_link) 
 {% include figure popup=true image_path="/assets/images/values3.png" %}
 
 #### **Advocacy**
 United Nations, Geneva, Switzerland
 <p align="justify">In 2013, while I was serving as the general secretary of ‘Asha for education – Zurich chapter’, I was invited to participate at a round-table discussion at the International Labor Office of United Nations in Geneva, Switzerland. I was part of the panel discussion on involvement of scientific diaspora in home country development. I had this rare opportunity of interacting with social scientists and government officials which provided me a glimpse into governing and policy-making.</p>
-Take a look at my presentation at the round-table here – Geneva Round-Table Presentation
+Take a look at my presentation and the summary report from Geneva round-table here – [UN Presentation](https://drive.google.com/file/d/1PsRSv-EibEosrlNWcv8VghVT3dcaEi_R/view?usp=share_link) [UN Report](https://drive.google.com/file/d/1WHOLzroHfGcCCF-cLAzHJ4h5iC7sEva5/view?usp=sharing)
 Read the summary of the round-table here – Geneva Round-Table Report
 {% include figure popup=true image_path="/assets/images/values4.png" %}
 
