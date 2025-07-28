@@ -5,14 +5,12 @@ classes: wide
 ---
 
 #### **Education**
-Volunteer teacher at Kaliyuva Mane orphanage
-Mysore, India (2006-2007)
+Volunteer teacher at Kaliyuva Mane orphanage in Mysore, India 
 <p align="left">I worked as a volunteer teacher at Kaliyuva Mane - an alternative school run by the Divyadeepa Charitable trust in Mysore, India. The school caters to children who are mostly drop-outs from regular schools, abused children, some who worked as child laborers in nearby farms, orphans and who generally belonged to the marginalized sections of society. I was mainly involved in teaching basic school-level math and science, as well as helping with the development of visual and interactive teaching aids. I was also involved in aiding with the sustainable development of the school premises.</p>
 {% include figure popup=true image_path="/assets/images/values1.png" %}
 
 #### **Empowerment**
-General Secretary of Asha Foundation
-Zurich, Switzerland (2010-2014)
+General Secretary of Asha Foundation in Zurich, Switzerland
 <p align="left">While I was working towards my PhD thesis in Zurich, from 2010-2014 I got involved with a charity organization called ‘Asha for Education – Zurich chapter’. ‘Asha for Education’ is a volunteer-based organization headquartered in California, USA with its branches operating all over the world. The goal of the organization is to conduct fundraising activities through awareness seminars, collaborations and events. The funds raised are used to support NGOs in India working on education projects mostly at grassroot levels, in isolated and far-flung regions, tribal regions and regions embroiled in political conflict. I have served at this organization in different capacities – as a volunteer working on co-ordination of projects, management and execution of fundraising events, as the editor of the newsletter and the annual report and for a long time as the general secretary of the association.</p>
 {% include figure popup=true image_path="/assets/images/values2.png" %}
 
