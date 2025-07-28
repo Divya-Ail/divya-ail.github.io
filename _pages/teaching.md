@@ -9,7 +9,7 @@ classes: wide
 <p align="justify">Thesis title: Characterization of immune  responses to Cas9 based gene editing in the retina. Co-authored papers: Ren et.al, Journal of Visualized Experiments,2025 Ren et.al, bioRxiv, 2025</p>
 
 **Master Students:** Mentored 5 students towards their Master thesis work
-<p align="justify">Your text here</p>2021: Université Paris Saclay,France. Thesis title: Humoral immune responses to ocular gene transfer in different animal models (co-supervision). Co-authored papers: Ail et.al, Mol.Ther.Methods and Clin.Dev.,2022, Ren et.al, Pharmaceutics, 2022
+<p align="justify">2021: Université Paris Saclay,France. Thesis title: Humoral immune responses to ocular gene transfer in different animal models (co-supervision). Co-authored papers: Ail et.al, Mol.Ther.Methods and Clin.Dev.,2022, Ren et.al, Pharmaceutics, 2022</p>
 
 <p align="justify">2020: Université Paris Sciences et Lettres, France.Thesis title: Analysis of AAV dependent immune responses in NHP retina</p>
 
