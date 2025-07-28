@@ -16,7 +16,7 @@ General Secretary of Asha Foundation in Zurich, Switzerland
 
 #### **Advocacy**
 United Nations, Geneva, Switzerland
-<p align="left">2013: While I was serving as the general secretary of ‘Asha for education – Zurich chapter’, I was invited to participate at a round-table discussion at the International Labor Office of United Nations in Geneva, Switzerland. I was part of the panel discussion on involvement of scientific diaspora in home country development. I had this rare opportunity of interacting with social scientists and government officials which provided me a glimpse into governing and policy-making.</p>
+<p align="left">In 2013, while I was serving as the general secretary of ‘Asha for education – Zurich chapter’, I was invited to participate at a round-table discussion at the International Labor Office of United Nations in Geneva, Switzerland. I was part of the panel discussion on involvement of scientific diaspora in home country development. I had this rare opportunity of interacting with social scientists and government officials which provided me a glimpse into governing and policy-making.</p>
 Take a look at my presentation at the round-table here – Geneva Round-Table Presentation
 Read the summary of the round-table here – Geneva Round-Table Report
 {% include figure popup=true image_path="/assets/images/values3.png" %}
@@ -24,7 +24,7 @@ Read the summary of the round-table here – Geneva Round-Table Report
 #### **Diversity and Inclusion**
 <p align="left">There is a gender-gap that exists in the STEM (Science, Technology, Engineering and Medicine) fields due to implicit or explicit bias that have caused persistent and systematic exclusion of women from STEM.  Hence promoting ‘Diversity and Inclusion’ in science has been an important aspect for me. As a member of the iGEM-Diversity and Inclusion committee, I have participated in and organized several activities aimed at raising awareness and improving diversity at workplaces.
 Inclusivity through accessibility: Through this committee our goal is to improve representation and inclusion of all communities and to address the persistent and systematic exclusion of certain communities from the STEM fields. I have contributed to creating videos and articles that inform the teams about promoting diversity and improving accessibility, and how we can work towards achieving these goals together.</p>
-Video link here
+<iframe title="Introduction: iGEM Diversity &amp; Inclusion Committee" width="560" height="315" src="https://video.igem.org/videos/embed/wVghLVFHxT73CdtuaJYm1S" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 <p align="left">Mental Health Initiative: In 2022 I was elected as the co-chair of the D&I committee. This year we made ‘Mental Health in STEM’ as the focus of our committee, as statistics have shown that one in three students experiences mental health issues and the prevalence is even higher among students belonging to the LGBTQ+ and minority communities. This situation has been further exacerbated during the pandemic and acknowledging the prevalence and persistence of these issues is the need of the hour. We had a dedicated booth at the iGEM competition where we conducted many the interactive events for students and other attendees.</p>
 {% include figure popup=true image_path="/assets/images/values4.png" %}
