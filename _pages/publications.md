@@ -6,8 +6,8 @@ classes: wide
 
 #### **Original peer-reviewed articles**
 
-<p align="justify" style="font-size:0.75em">
 <ul>
+<p align="justify" style="font-size:0.75em">
 <li>Evaluation of the transgene expression by digital droplet PCR after ocular gene transfer. <br>
 Ren D, Dalkara D, Fisson S, Ail D† <br>
 Journal of Visualized Experiments (JoVE), 2025 </li>
@@ -80,8 +80,9 @@ Cell Death and Disease, 2013 <br>
 Kupinski AP*, Raabe I*, Michel M, Ail D, Brusch L, Weidemann T, Bökel C <br>
 Journal of Cell Science, 2013 <br>
 (DOI:10.1242/jcs.128926) Download PDF </li>
+</p>
 </ul>
-</p>  
+  
 
 
 
