@@ -8,7 +8,7 @@ classes: wide
 <p align="justify" style="font-size:0.75em">
  <b>PhD Student:</b>Supervision of 1 PhD student since 2021 (Université Paris Saclay, France). <br>
  Thesis title: Characterization of immune  responses to Cas9 based gene editing in the retina. <br>
- Co-authored papers: Ren et.al, Journal of Visualized Experiments,2025 and <a href="[url](https://www.biorxiv.org/content/10.1101/2025.06.02.656863v2)">Ren et.al,bioRxiv,2025</a>
+ Co-authored papers: Ren et.al, Journal of Visualized Experiments,2025 and <a href="https://www.biorxiv.org/content/10.1101/2025.06.02.656863v2">Ren et.al,bioRxiv,2025</a>
 </p>
 
 <p align="justify" style="font-size:0.75em">
