@@ -80,9 +80,76 @@ Kupinski AP*, Raabe I*, Michel M, Ail D, Brusch L, Weidemann T, Bökel C <br>
 Journal of Cell Science, 2013 <br>
 (DOI:10.1242/jcs.128926) Download PDF </li>
 </ul>
+
+#### **Conferences**
+##### **Conference Presentations**
+<ul align="justify" style="font-size:0.75em">
+<li><b>2024:</b> Symposium on Health and Sensory Receptors at HUST, China <br>
+Immune challenges to gene therapies for sensory receptors in the eye. </li>
+
+<li><b>2022:</b> ViMaMo conference at the Paris Brain Institute, Paris, France <br>
+Three distinct nonhuman primate inducible-models of retinal degeneration.  </li>
+
+<li><b>2022:</b> European Society of Gene and Cell Therapy (ESGCT) meeting in Edinburgh, Scotland <br>
+Generation of three distinct non-human primate inducible-models of retinal degeneration. </li>
+
+<li><b>2022:</b> Federation of European Neurosciences Societies (FENS) meeting in Paris, France <br>
+Inducible non-human primate models of retinal degeneration. </li>
+
+<li><b>2021:</b> International Society of Neuroimmunology (ISNI) virtual congress <br>
+Intraocular administration of adeno-associated virus results in systemic and local immune response in non-human primates. </li>
+
+<li><b>2021:</b> Retinal Degeneration Meeting (RD2021) in Nashville, USA <br>
+Evaluation of host immune responses to intraocular AAV injections in non-human primates. <br> 
+Award: received an award by Foundation Fighting Blindness (FFB) to attend/ present at RD21 </li>
+
+<li><b>2019:</b> Joint French – Japanese (RIKEN) meeting at the Vision Institute, Paris, France <br>
+Immune responses to AAV-injections in Non-human Primates. </li>
+
+<li><b>2019:</b> Janelia conference on Engineering and Evolving Viruses at the Janelia Research Campus, HHMI, USA <br>
+Evaluation of host immune responses to subretinal AAV injections in non-human primates.  <br> 
+Award: received an award by Janelia conference committee to attend/ present </li>
+
+<li><b>2018:</b> French Xenopus Meeting at Sorbonne University, Paris, France <br>
+Retinal regeneration in novel Xenopus models of neural tissue degeneration: the role of the Hippo/Yap pathway. </li>
+
+<li><b>2017:</b> European Amphibian Club in Rennes, France  <br>
+Role of YAP in the Muller-cell mediated regeneration of the Xenopus retina. </li>
+
+<li><b>2017:</b> French Stem Cell Network meeting at the Curie Institute, Paris, France  <br>
+Muller-cell mediated regeneration of the Xenopus retina. </li>
+
+<li><b>2014:</b> 10th ZIHP symposium at the Zurich Centre for Integrative Human Physiology, Zurich, Switzerland <br>
+The hypoxic response and HIF1A in the development of age-related blindness. </li>
+<li><b>2014:</b> Federation of European Neurosciences Societies (FENS) meeting in Milan, Italy <br>
+Role of Stanniocalcin2 in the hypoxic retina. </li>
+
+<li><b>2013:</b> Young Researcher Vision Camp in Wildenstein, Germany <br>
+Stanniocalcin-2 in chronic and acute hypoxia in the retina. </li>
+
+<li><b>2013:</b> Association for Research in vision and Ophthalmology (ARVO) 2013 in Seattle, USA <br>
+HIF1 dependent upregulation of Stanniocalcin-2 in chronic and acute hypoxia in the retina. </li>
+
+<li><b>2013:</b> 9th ZHIP symposium in Zurich, Switzerland <br>
+Upregulation of Stanniocalcin-2 in chronic and acute hypoxia in the retina. </li>
+
+<li><b>2012:</b> ZNZ Neuroscience symposium in Valens, Switzerland <br>
+Exploring the role of Hypoxia inducible factor 1 in neurodegenerative diseases of the Retina. </li>
+<li><b>2013:</b> Swiss Eye Research Week (SERM 2013) in Biel, Switzerland <br>
+Is Hif1a the missing link between complement activation and AMD? </li>
+
+<li><b>2009:</b> iGEM – Team Biotec at MIT, Boston, USA <br>
+Factory-on-a-chip: Temporal and spatial control of protein synthesis by in vitro recombination inside picoliter reactors. </li>
+</ul>
   
+##### **Conference Organization**
+<ul align="justify" style="font-size:0.75em">
+<li><b>2022:</b> Webinar series – Part of the iGEM ‘Diversity and Inclusion’ committee responsible for organization of a webinar series on ‘Mental Health in STEM’ </li>
 
+<li><b>2017:</b> International Neuroscience conference - Part of the organizing committee of the Neuroscience Workshop Saclay (NeWS 2017) at Gif-sur-Yvette, France. </li>
 
+<li><b>2015:</b> Institute seminars - Part of the organizing committee of ‘Wagi seminars’ - a monthly seminar series at the University of Zurich in Schlieren, Switzerland. </li>
+</ul>
 
 
 
