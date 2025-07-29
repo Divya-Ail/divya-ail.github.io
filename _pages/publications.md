@@ -5,35 +5,52 @@ classes: wide
 ---
 
 #### **Original peer-reviewed articles**
-•	Evaluation of the transgene expression by digital droplet PCR after ocular gene transfer
-Ren D, Dalkara D, Fisson S, Ail D†
-Journal of Visualized Experiments (JoVE), 2025
+<b> </b>
 
-•	Inter-individual variability in immune responses to AAV-mediated ocular gene delivery across species impedes reliable immunomonitoring profile.
-Ren D, Chauveau G, Vendomele J, Cabon E, Pineiro A, Vignal-Clermont C, Saliba H, Ronzitti G, Galy A, Dalkara D, Pulman J, Ail D, Fisson S
-bioRxiv DOI: https://doi.org/10.1101/2025.06.02.656863, 2025
+<p align="justify" style="font-size:0.75em">
+<ul>
+<li>Evaluation of the transgene expression by digital droplet PCR after ocular gene transfer. <br>
+Ren D, Dalkara D, Fisson S, Ail D† <br>
+Journal of Visualized Experiments (JoVE), 2025 </li>
 
-•	Inducible non-human primate models of retinal degeneration for testing end stage therapies and understanding disease mechanisms 
-Ail D†, Nava D, Hwang I, Brazhnikova E, Nouvel-Jaillard C, Dentel A, Joffris C, Rousseau L, Dégardin J, Bertin S, Sahel JA, Goureau O, Picaud S, Dalkara D†
-Science Advances, 2023 
-(DOI: 10.1126/sciadv.adg8163)  Download PDF
+<li>Inter-individual variability in immune responses to AAV-mediated ocular gene delivery across species impedes reliable immunomonitoring profile. <br>
+Ren D, Chauveau G, Vendomele J, Cabon E, Pineiro A, Vignal-Clermont C, Saliba H, Ronzitti G, Galy A, Dalkara D, Pulman J, Ail D, Fisson S <br>
+bioRxiv DOI: https://doi.org/10.1101/2025.06.02.656863, 2025 </li>
 
-•	Pre-existing neutralizing antibodies against different adeno-associated virus serotypes in large animal models
-Ail D† and Dalkara D 
-Advances in Experimental Medicine and Biology, 2023
-(DOI: 10.1007/978-3-031-27681-1_18) Download PDF      
-                           
-•	Adeno-Associated Virus (AAV) - Based Gene Therapies for Retinal Diseases: Where are We?
-Ail D†#, Malki H, Zin EA, Dalkara D (Invited Review)
-The Application of Clinical Genetics, 2023
-(DOI: 10.2147/TACG.S383453) Download PDF
+<li>Inducible non-human primate models of retinal degeneration for testing end stage therapies and understanding disease mechanisms. <br>
+Ail D†, Nava D, Hwang I, Brazhnikova E, Nouvel-Jaillard C, Dentel A, Joffris C, Rousseau L, Dégardin J, Bertin S, Sahel JA, Goureau O, Picaud S, Dalkara D† <br>
+Science Advances, 2023 <br>
+(DOI: 10.1126/sciadv.adg8163)  Download PDF </li>
 
-•	Immune responses to gene editing by viral and non-viral delivery vectors used in retinal gene therapy
-Ren D, Fisson S, Dalkara D and Ail D†
-Pharmaceutics, 2022 
-(DOI: 10.3390/pharmaceutics14091973) Download PDF
+<li>Pre-existing neutralizing antibodies against different adeno-associated virus serotypes in large animal models. <br>
+Ail D† and Dalkara D <br>
+Advances in Experimental Medicine and Biology, 2023 <br>
+(DOI: 10.1007/978-3-031-27681-1_18) Download PDF </li>
 
-•	Stanniocalcin2, but not Stanniocalcin1, responds to hypoxia in a HIF1-dependent manner in the retina
+<li>Pre-existing neutralizing antibodies against different adeno-associated virus serotypes in large animal models. <br>
+Ail D† and Dalkara D <br>
+Advances in Experimental Medicine and Biology, 2023 <br>
+(DOI: 10.1007/978-3-031-27681-1_18) Download PDF </li>
+
+<li>Adeno-Associated Virus (AAV) - Based Gene Therapies for Retinal Diseases: Where are We? <br>
+Ail D†#, Malki H, Zin EA, Dalkara D (Invited Review) <br>
+The Application of Clinical Genetics, 2023 <br>
+DOI: 10.2147/TACG.S383453) Download PDF </li>
+
+<li>Immune responses to gene editing by viral and non-viral delivery vectors used in retinal gene therapy <br>
+Ren D, Fisson S, Dalkara D and Ail D† <br>
+Pharmaceutics, 2022 <br>
+(DOI: 10.3390/pharmaceutics14091973) Download PDF </li>
+
+<li>Stanniocalcin2, but not Stanniocalcin1, responds to hypoxia in a HIF1-dependent manner in the retina <br>
+Ail D†#, Malki H, Zin EA, Dalkara D (Invited Review) <br>
+The Application of Clinical Genetics, 2023 <br>
+DOI: 10.2147/TACG.S383453) Download PDF </li>
+</ul>
+</p>  
+  
+
+
 Ail D, Samardzija M, Chang ACM, Keck J, Reddel RR., Grimm C
 Frontiers in Neuroscience, 2022 
 (DOI: 10.3389/fnins.2022.882559) Download PDF
