@@ -63,7 +63,7 @@ I am responsible for the following modules in the undergraduate program in Life 
 I am involved in giving two lectures to students of a Master’s program in Integrative biology and physiology at the Sorbonne University. <br>
 - Lecture on ‘Gene Therapy’ in the course ‘Physiopathology of sensory diseases and translational research’.<br>
 - Lecture on ‘Viral Approaches and Virus engineering’ in the course ‘Vision from retina to primary visual cortex’. <br>
-Download and review slides of the course here: Gene Therapy Lecture
+Download and review slides of the course here: [Gene Therapy Lecture](https://drive.google.com/file/d/1acgDNR0FCBJRMzGNG1OpQQRh2yvJ5May/view?usp=share_link)
 </p>
 
 <p align="justify" style="font-size:0.75em">
