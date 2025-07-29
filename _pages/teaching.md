@@ -15,14 +15,14 @@ classes: wide
  <b>Master Students:</b>Mentored 5 students towards their Master thesis work. <br>
  2021: Université Paris Saclay,France.(co-supervision) <br>
  Thesis title: Humoral immune responses to ocular gene transfer in different animal models. <br>
- Co-authored papers: [Ail et.al, Mol.Ther.Methods and Clin.Dev.,2022](https://doi.org/10.1016/j.omtm.2022.01.011) and [Ren et.al, Pharmaceutics, 2022](https://www.mdpi.com/1837708). <br>
+ Co-authored papers: <a href="[url](https://doi.org/10.1016/j.omtm.2022.01.011)">Ail et.al,Mol.Ther.Methods and Clin.Dev.,2022</a> and <a href="[url](https://www.mdpi.com/1837708)">Ren et.al,Pharmaceutics,2022</a>. <br>
  2020: Université Paris Sciences et Lettres, France. <br>
  Thesis title: Analysis of AAV dependent immune responses in NHP retina. <br>
  2020: Université Paris Sciences et Lettres, France. <br>
  Project title: Development of a retinal degeneration model by Crispr-Cas9. <br>
  2019: Paris Descartes University, France. <br>
  Thesis title: In vitro & ex vivo validation of retinal degeneration model induced by CRISPR-Cas9. <br>
- Co-authored papers: [Ail et.al, Science Advances, 2023](https://www.science.org/doi/10.1126/sciadv.adg8163). <br>
+ Co-authored papers: <a href="[url](https://www.science.org/doi/10.1126/sciadv.adg8163)">Ail et.al,Science Advances,2023</a>. <br>
  2017: Paris-Sud University, France. (co-supervision) <br>
  Thesis title: Development of a new model of retinal degeneration in Xenopus to study the involvement of Müller glial cells in  regeneration.
  </p>
@@ -63,7 +63,7 @@ I am responsible for the following modules in the undergraduate program in Life 
 I am involved in giving two lectures to students of a Master’s program in Integrative biology and physiology at the Sorbonne University. <br>
 - Lecture on ‘Gene Therapy’ in the course ‘Physiopathology of sensory diseases and translational research’.<br>
 - Lecture on ‘Viral Approaches and Virus engineering’ in the course ‘Vision from retina to primary visual cortex’. <br>
-Download and review slides of the course here: [Gene Therapy Lecture](https://drive.google.com/file/d/1acgDNR0FCBJRMzGNG1OpQQRh2yvJ5May/view?usp=share_link)
+Download and review slides of the course here: <a href="[url](https://drive.google.com/file/d/1acgDNR0FCBJRMzGNG1OpQQRh2yvJ5May/view?usp=share_link)">Gene Therapy Lecture</a>
 </p>
 
 <p align="justify" style="font-size:0.75em">
