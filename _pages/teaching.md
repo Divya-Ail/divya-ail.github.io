@@ -27,7 +27,7 @@ classes: wide
  Thesis title: Development of a new model of retinal degeneration in Xenopus to study the involvement of Müller glial cells in  regeneration.
  </p>
 
-<p align="justify" style="font-size:0.75em">
+ <p align="justify" style="font-size:0.75em">
 <b>Bachelor Students:</b>Mentored 2 students towards their Bachelor thesis/ Internship work. <br>
 2019: Cergy Pontoise University, France. <br>
  Project title: Study of a photo-inducible protein to create a model of rod-cone dystrophy. <br>
@@ -44,3 +44,50 @@ I mentored the HUST-UEVE-UPSaclay team on their project ‘Aqua Guardian 2’ wh
 <b>2023:</b> iGEM Paris-Saclay team from Evry, France (Team Advisor) <br>
 I mentored the Evry-Paris-Saclay team on their project ‘Optogenesis’ which focused on using directed evolution to generate new variants of microbial opsins that can be used for vision restoration. Our team won the best hardware award, nomination for the best software and the iGEM gold medal. These achievements received attention and coverage from Centre Supélec, Evry University, Genopole and CEA.
 </p>
+
+#### **Teaching**
+<p align="justify" style="font-size:0.75em">
+<b>2024 - present</b> <br>
+<b>Courses in Undergraduate program in Life Sciences at University of Paris Saclay, France</b> <br>
+I am involved in the course content creation (both lecture and tutorial content), giving the lectures, conducting the tutorials, preparing and conducting the continuous evaluations throughout the semesters, preparing and grading of the final exam assesments. In addition I also participate in the pedagogical meetings for designing and updating the course modules. <br>
+I am responsible for the following modules in the undergraduate program in Life Sciences - <br>
+- Regulation of Gene Expression (4th year) <br>
+- Introduction to Synthetic Biology (3rd year) <br>
+- Molecular Biology (2nd year) <br>
+- general Biology (1st year) <br>
+</p>
+
+<p align="justify" style="font-size:0.75em">
+<b>2020 - 2023</b> <br>
+<b>Lectures in Master program at Sorbonne University, Paris, France</b> <br>
+I am involved in giving two lectures to students of a Master’s program in Integrative biology and physiology at the Sorbonne University. <br>
+- Lecture on ‘Gene Therapy’ in the course ‘Physiopathology of sensory diseases and translational research’.<br>
+- Lecture on ‘Viral Approaches and Virus engineering’ in the course ‘Vision from retina to primary visual cortex’. <br>
+Download and review slides of the course here: Gene Therapy Lecture
+</p>
+
+<p align="justify" style="font-size:0.75em">
+<b>2021</b> <br>
+<b>Invited lecture – Vellore Institute of Technology (VIT), India</b> <br>
+I was invited to give a talk on ‘Gene Therapy’ to the Bachelor and Master level students in the Biotechnology course at VIT, India. 
+</p>
+
+<p align="justify" style="font-size:0.75em">
+<b>2015</b> <br>
+<b>Invited lecture – University of Basel, Switzerland</b> <br>
+I was invited to give a talk on ‘Involvement of scientific diasporas in education and empowerment’ to the Master level students in the social anthropology department of the University of Basel, Switzerland.
+</p>
+
+<p align="justify" style="font-size:0.75em">
+<b>2012 - 2015</b> <br>
+<b>Practical laboratory course – University of Zurich, Switzerland</b> <br>
+I co-supervised a lab course in Neurobiology at University of Zurich, Switzerland. This involved planning and preparing the experiments and course material/hand-outs, teaching, helping the students analyze results and troubleshoot, evaluate their reports and final presentations.
+</p>
+
+
+ 
+
+
+
+
+
