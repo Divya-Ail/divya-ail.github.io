@@ -71,17 +71,15 @@ Kupinski AP*, Raabe I*, Michel M, <b>Ail D</b>, Brusch L, Weidemann T, Bökel C 
 Journal of Cell Science, 2013. Read and download the paper <a href="https://journals.biologists.com/jcs/article/126/20/4684/54002/Phosphorylation-of-the-Smo-tail-is-controlled-by">here</a> </li> 
 
 <li>Development of a sensor for the Hedgehog signaling pathway. <br>
-<b>Ail D</b> <br>
-Technical University of Dresden, Germany, 2009. </li> <br>
-* Shared authorship, † Corresponding author
+<b>Ail D</b> Technical University of Dresden, Germany, 2009. <br>  </li>
+* Shared authorship, † Corresponding/ Lead author
 </ul>
-
 ##### **Conference Presentations**
 <ul align="justify" style="font-size:0.75em">
-<li><b>2024:</b> Symposium on Health and Sensory Receptors at HUST, China <br>
+<li><b>2024</b> Symposium on Health and Sensory Receptors at HUST, China <br>
 Immune challenges to gene therapies for sensory receptors in the eye. </li>
 
-<li><b>2022:</b> <br>
+<li><b>2022</b> <br>
 ViMaMo conference at the Paris Brain Institute, Paris, France <br>
 Three distinct nonhuman primate inducible-models of retinal degeneration.  </li>
 
@@ -92,7 +90,7 @@ View and download the poster <a href="https://drive.google.com/file/d/16-uJorsMJ
 <li>Federation of European Neurosciences Societies (FENS) meeting in Paris, France <br>
 Inducible non-human primate models of retinal degeneration. </li>
 
-<li><b>2021:</b> <br>
+<li><b>2021</b> <br>
 International Society of Neuroimmunology (ISNI) virtual congress <br>
 Intraocular administration of adeno-associated virus results in systemic and local immune response in non-human primates. </li>
 
@@ -101,7 +99,7 @@ Evaluation of host immune responses to intraocular AAV injections in non-human p
 Award: received an award by Foundation Fighting Blindness (FFB) to attend and present at RD21 <br>
 View and download the poster <a href="https://drive.google.com/file/d/13AZtPMvmJ5E-CedMUjRXXZ3i7PQhYTzw/view?usp=sharing">here</a> </li>
 
-<li><b>2019:</b> <br>
+<li><b>2019</b> <br>
 Joint French – Japanese (RIKEN) meeting at the Vision Institute, Paris, France <br>
 Immune responses to AAV-injections in Non-human Primates. </li>
 
@@ -110,11 +108,11 @@ Evaluation of host immune responses to subretinal AAV injections in non-human pr
 Award: received an award by Janelia conference committee to attend and present <br>
 View and download the poster <a href="https://drive.google.com/file/d/1gRH1byWFCPwCTtP0ZbdHRgK2F_PBnlMX/view?usp=sharing">here</a> </li>
 
-<li><b>2018:</b> <br>
+<li><b>2018</b> <br>
 French Xenopus Meeting at Sorbonne University, Paris, France <br>
 Retinal regeneration in novel Xenopus models of neural tissue degeneration: the role of the Hippo/Yap pathway. </li>
 
-<li><b>2017:</b> <br>
+<li><b>2017</b> <br>
 European Amphibian Club in Rennes, France  <br>
 Role of YAP in the Muller-cell mediated regeneration of the Xenopus retina. <br>
 View and download the poster <a href="https://drive.google.com/file/d/1BWQp9siuZHVouBm3oKd0UdaqVqdi2dHf/view?usp=sharing">here</a> </li>
@@ -122,13 +120,13 @@ View and download the poster <a href="https://drive.google.com/file/d/1BWQp9siuZ
 <li>French Stem Cell Network meeting at the Curie Institute, Paris, France  <br>
 Muller-cell mediated regeneration of the Xenopus retina. </li>
 
-<li><b>2014:</b> 10th ZIHP symposium at the Zurich Centre for Integrative Human Physiology, Zurich, Switzerland <br>
+<li><b>2014</b> 10th ZIHP symposium at the Zurich Centre for Integrative Human Physiology, Zurich, Switzerland <br>
 The hypoxic response and HIF1A in the development of age-related blindness. </li>
 <li><b>2014:</b> Federation of European Neurosciences Societies (FENS) meeting in Milan, Italy <br>
 Role of Stanniocalcin2 in the hypoxic retina. <br>
 View and download the poster <a href="https://drive.google.com/file/d/1s4MjIG2YWwLFY0oz0dpCNlZM4LvIl3ND/view?usp=sharing">here</a> </li>
 
-<li><b>2013:</b> <br>
+<li><b>2013</b> <br>
 Young Researcher Vision Camp in Wildenstein, Germany <br>
 Stanniocalcin-2 in chronic and acute hypoxia in the retina. </li>
 
@@ -139,7 +137,7 @@ View and download the poster <a href="https://drive.google.com/drive/u/1/folders
 <li>9th ZHIP symposium in Zurich, Switzerland <br>
 Upregulation of Stanniocalcin-2 in chronic and acute hypoxia in the retina. </li>
 
-<li><b>2012:</b> ZNZ Neuroscience symposium in Valens, Switzerland <br>
+<li><b>2012</b> ZNZ Neuroscience symposium in Valens, Switzerland <br>
 Exploring the role of Hypoxia inducible factor 1 in neurodegenerative diseases of the Retina. </li>
 <li><b>2013:</b> Swiss Eye Research Week (SERM 2013) in Biel, Switzerland <br>
 Is Hif1a the missing link between complement activation and AMD? </li>
@@ -147,16 +145,32 @@ Is Hif1a the missing link between complement activation and AMD? </li>
 <li><b>2009:</b> iGEM – Team Biotec at MIT, Boston, USA <br>
 Factory-on-a-chip: Temporal and spatial control of protein synthesis by in vitro recombination inside picoliter reactors. </li>
 </ul>
-  
 ##### **Conference Organization**
 <ul align="justify" style="font-size:0.75em">
-<li><b>2022:</b> Webinar series – Part of the iGEM ‘Diversity and Inclusion’ committee responsible for organization of a webinar series on ‘Mental Health in STEM’ </li>
+<li><b>2022</b> Webinar series – Part of the iGEM ‘Diversity and Inclusion’ committee responsible for organization of a webinar series on ‘Mental Health in STEM’ </li>
 
-<li><b>2017:</b> International Neuroscience conference - Part of the organizing committee of the Neuroscience Workshop Saclay (NeWS 2017) at Gif-sur-Yvette, France. </li>
+<li><b>2017</b> International Neuroscience conference - Part of the organizing committee of the Neuroscience Workshop Saclay (NeWS 2017) at Gif-sur-Yvette, France. </li>
 
-<li><b>2015:</b> Institute seminars - Part of the organizing committee of ‘Wagi seminars’ - a monthly seminar series at the University of Zurich in Schlieren, Switzerland. </li>
+<li><b>2015</b> Institute seminars - Part of the organizing committee of ‘Wagi seminars’ - a monthly seminar series at the University of Zurich in Schlieren, Switzerland. </li>
 </ul>
+##### **Editorial Work**
+<p align="justify" style="font-size:0.75em">
+I was invited to serve as a guest editor for a methods collection on <a href="https://app.jove.com/methods-collections/3161?">“Retinal Disease Analysis and Therapy”</a> in the Journal of Visualized Experiments (JoVE). JoVE is the leading peer-reviewed scientific methods video journal, aimed at increasing the visibility and reproducibility of research. To date very few journals publish video articles in the biomedical field, despite this type of article being of paramount importance for sharing techniques and improving replicability. Hence, I started a methods collection to offer a comprehensive overview of methodology in the field of vision sciences – more specifically to provide detailed techniques for the structural and functional analysis of both healthy and diseased retina, as well as experimental protocols for therapy design and testing.
+</p>
+##### **Grant Reviews**
+<ul align="justify" style="font-size:0.75em">
+<li><b>2024</b> Grant review for European Science Foundation (ESF) and Fonds voor Wetenschappelijk Onderzoek - Vlaanderen (FWO), Belgium for the FWO 2024 Call for Junior and Senior Research Projects. </li>
 
-
+<li><b>2021</b> Grant review for Swiss National Science Foundation (SNSF)  </li>
+</ul>
+##### **Peer Reviews**
+<p align="justify" style="font-size:0.75em">
+I have been invited to peer-review manuscripts (both original reserach and reviews) by various journals/publishers. </p>
+<ul align="justify" style="font-size:0.75em">
+  <li>Nature Publishing Group - Cell Death and Disease, Cell Death and Differentiation, Biodrugs. </li>
+  <li>Cell Publishing - Cell Reports Medicine, Molecular Therpay - Methods and Clin. Dev. </li>
+  <li>ARVO Journals - Investigative Ophthalmology and Vision Science (IOVS), Translational Vision Science and Technology (TVST) </li>
+  <li>PloS (PlosOne), Wiley (Advanced Science), Elsevier (Experimental Eye Reserach), Spinger (BioDrug) and JoVE. </li>
+  </ul>
 
 
