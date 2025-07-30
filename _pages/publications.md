@@ -147,9 +147,9 @@ Factory-on-a-chip: Temporal and spatial control of protein synthesis by in vitro
 </ul>
 ##### **Conference Organization**
 <ul align="justify" style="font-size:0.75em">
-<li><b>2022</b> Webinar series – Part of the iGEM ‘Diversity and Inclusion’ committee responsible for organization of a webinar series on ‘Mental Health in STEM’ </li>
+<li><b>2022</b> <a href="https://blog.igem.org/blog/2022/10/5/on-the-road-to-paris-overcoming-mental-health-challenges-in-stem">Webinar series</a> – Part of the iGEM ‘Diversity and Inclusion’ committee responsible for organization of a webinar series on ‘Mental Health in STEM’ </li>
 
-<li><b>2017</b> International Neuroscience conference - Part of the organizing committee of the Neuroscience Workshop Saclay (NeWS 2017) at Gif-sur-Yvette, France. </li>
+<li><b>2017</b> International Neuroscience conference - Part of the organizing committee of the Neuroscience Workshop Saclay (<a href="https://news2017.sciencesconf.org/resource/page/id/5.html">NeWS 2017</a>)  at Gif-sur-Yvette, France. </li>
 
 <li><b>2015</b> Institute seminars - Part of the organizing committee of ‘Wagi seminars’ - a monthly seminar series at the University of Zurich in Schlieren, Switzerland. </li>
 </ul>
@@ -165,12 +165,12 @@ I was invited to serve as a guest editor for a methods collection on <a href="ht
 </ul>
 ##### **Peer Reviews**
 <p align="justify" style="font-size:0.75em">
-I have been invited to peer-review manuscripts (both original reserach and reviews) by various journals/publishers. </p>
+I have been invited to peer-review manuscripts (both original reserach and reviews) by various journals/publishers. <br>
 <ul align="justify" style="font-size:0.75em">
   <li>Nature Publishing Group - Cell Death and Disease, Cell Death and Differentiation, Biodrugs. </li>
   <li>Cell Publishing - Cell Reports Medicine, Molecular Therpay - Methods and Clin. Dev. </li>
-  <li>ARVO Journals - Investigative Ophthalmology and Vision Science (IOVS), Translational Vision Science and Technology (TVST) </li>
+  <li>ARVO (Association for Research in Vision and ophthalmology) Journals - IOVS and TVST </li>
   <li>PloS (PlosOne), Wiley (Advanced Science), Elsevier (Experimental Eye Reserach), Spinger (BioDrug) and JoVE. </li>
-  </ul>
+  </ul> </p>
 
 
