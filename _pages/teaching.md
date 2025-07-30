@@ -8,21 +8,21 @@ classes: wide
 <p align="justify" style="font-size:0.75em">
  <b>PhD Student:</b>Supervision of 1 PhD student since 2021 (Université Paris Saclay, France). <br>
  Thesis title: Characterization of immune  responses to Cas9 based gene editing in the retina. <br>
- Co-authored papers: Ren et.al, Journal of Visualized Experiments,2025 and <a href="https://www.biorxiv.org/content/10.1101/2025.06.02.656863v2">Ren et.al,bioRxiv,2025</a>
+ Co-authored papers: Ren et.al, Journal of Visualized Experiments,2025 and <a href="https://www.biorxiv.org/content/10.1101/2025.06.02.656863v2">Ren et.al,2025</a> bioRxiv.
 </p>
 
 <p align="justify" style="font-size:0.75em">
  <b>Master Students:</b>Mentored 5 students towards their Master thesis work. <br>
  2021: Université Paris Saclay,France.(co-supervision) <br>
  Thesis title: Humoral immune responses to ocular gene transfer in different animal models. <br>
- Co-authored papers: <a href="https://doi.org/10.1016/j.omtm.2022.01.011">Ail et.al,Mol.Ther.Methods and Clin.Dev.,2022</a> and <a href="https://www.mdpi.com/1837708">Ren et.al,Pharmaceutics,2022</a>. <br>
+ Co-authored papers: <a href="https://doi.org/10.1016/j.omtm.2022.01.011">Ail et.al,2022</a> Mol.Ther.Methods and Clin.Dev. and <a href="https://www.mdpi.com/1837708">Ren et.al,2022</a> Pharmaceutics. <br>
  2020: Université Paris Sciences et Lettres, France. <br>
  Thesis title: Analysis of AAV dependent immune responses in NHP retina. <br>
  2020: Université Paris Sciences et Lettres, France. <br>
  Project title: Development of a retinal degeneration model by Crispr-Cas9. <br>
  2019: Paris Descartes University, France. <br>
  Thesis title: In vitro & ex vivo validation of retinal degeneration model induced by CRISPR-Cas9. <br>
- Co-authored papers: <a href="https://www.science.org/doi/10.1126/sciadv.adg8163">Ail et.al,Science Advances,2023</a>. <br>
+ Co-authored papers: <a href="https://www.science.org/doi/10.1126/sciadv.adg8163">Ail et.al,2023</a> Science Advances. <br>
  2017: Paris-Sud University, France. (co-supervision) <br>
  Thesis title: Development of a new model of retinal degeneration in Xenopus to study the involvement of Müller glial cells in  regeneration.
  </p>
@@ -38,10 +38,10 @@ classes: wide
 <b>Advisor of the iGEM teams</b> <br>
 iGEM (international Genetically Engineered Machine) is a synthetic biology competition for students at Bachelor and Master level. As an advisor to the teams I am involved brainstorming with students, evaluating their scientific ideas, giving feedback, support for design of experiments, helping them critically analyze the results of the experiments and communicating the project at the final competition. <br>
 
-<b>2024:</b> HUST-UEVE-UPSaclay team from Wuhan, China (External Advisor) <br>
+<b>2024:</b> HUST-UEVE-UPSaclay team from Wuhan, China (<a href="https://2024.igem.wiki/hust-ueve-upsaclay/attributions">External Advisor</a>) <br>
 I mentored the HUST-UEVE-UPSaclay team on their project ‘Aqua Guardian 2’ which focused on using synthetic biology to develop a dual-system for microplastic degradation (using E.Coli) and collection (using C.elegans). Our team won a gold medal at the iGEM competition held in Paris, France. <br>
 
-<b>2023:</b> iGEM Paris-Saclay team from Evry, France (Team Advisor) <br>
+<b>2023:</b> iGEM Paris-Saclay team from Evry, France (<a href="https://2023.igem.wiki/evry-paris-saclay/team">Team Advisor</a>) <br>
 I mentored the Evry-Paris-Saclay team on their project ‘Optogenesis’ which focused on using directed evolution to generate new variants of microbial opsins that can be used for vision restoration. Our team won the best hardware award, nomination for the best software and the iGEM gold medal. These achievements received attention and coverage from Centre Supélec, Evry University, Genopole and CEA.
 </p>
 
