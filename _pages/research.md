@@ -11,7 +11,7 @@ Read more about my research projects below. </p>
 <h4><b>Gene therapy for neurodegenerative diseases</b></h4>
 <p align="justify" style="font-size:0.75em">
 Mutations in genes that are involved in critical functions of neuronal cells result in cell dysfunction, cell death and diseases. Gene therapy is a promising treatment approach for such diseases aiming to treat such diseases by delivering therapeutic genes to the affected neurons using delivery vectors. Although some gene therapies have been approved and more are being developed, the immense potential of these therapies is marred by some important challenges such as lack of relevant translational models for testing these therapies before application in clinics and immune responses that can reduce the efficacy and safety of these treatments. <br>
-Read more about my projects related to some important challenges in development of gene therapies here.</p> 
+Read more about my projects related to some important challenges in development of gene therapies <a href="https://github.com/Divya-Ail/divya-ail.github.io/blob/5af907fe34c84ac6ecdafbc285a6987dd2e13d05/_pages/genetherapy.md">here</a>. </p> 
 
 <h4><b>Understanding molecular mechanisms of neurodegeneration</b></h4>
 <p align="justify" style="font-size:0.75em">
