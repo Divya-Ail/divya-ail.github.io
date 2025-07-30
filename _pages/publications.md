@@ -164,13 +164,12 @@ I was invited to serve as a guest editor for a methods collection on <a href="ht
 <li><b>2021</b> Grant review for Swiss National Science Foundation (SNSF)  </li>
 </ul>
 ##### **Peer Reviews**
-<p align="justify" style="font-size:0.75em">
-I have been invited to peer-review manuscripts (both original reserach and reviews) by various journals/publishers. <br>
 <ul align="justify" style="font-size:0.75em">
+I have been invited to peer-review manuscripts (both original reserach and reviews) by various journals/publishers. <br>
   <li>Nature Publishing Group - Cell Death and Disease, Cell Death and Differentiation, Biodrugs. </li>
   <li>Cell Publishing - Cell Reports Medicine, Molecular Therpay - Methods and Clin. Dev. </li>
   <li>ARVO (Association for Research in Vision and ophthalmology) Journals - IOVS and TVST </li>
   <li>PloS (PlosOne), Wiley (Advanced Science), Elsevier (Experimental Eye Reserach), Spinger (BioDrug) and JoVE. </li>
-  </ul> </p>
+  </ul>
 
 
