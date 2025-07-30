@@ -60,7 +60,7 @@ I am responsible for the following modules in the undergraduate program in Life 
 <p align="justify" style="font-size:0.75em">
 <b>2020 - 2023: Lectures in Master program</b> <br>
 <b>Sorbonne University, Paris, France</b> <br>
-I am involved in giving two lectures to students of a Master’s program in Integrative biology and physiology at the Sorbonne University. <br>
+I was giving lectures in the Master’s program in Integrative biology and physiology at the Sorbonne University. <br>
 - Lecture on ‘Gene Therapy’ in the course ‘Physiopathology of sensory diseases and translational research’.<br>
 - Lecture on ‘Viral Approaches and Virus engineering’ in the course ‘Vision from retina to primary visual cortex’. <br>
 Download and review slides of the course here: <a href="https://drive.google.com/file/d/1acgDNR0FCBJRMzGNG1OpQQRh2yvJ5May/view?usp=share_link">Gene Therapy Lecture</a>
@@ -68,7 +68,7 @@ Download and review slides of the course here: <a href="https://drive.google.com
 
 <p align="justify" style="font-size:0.75em">
 <b>2021: Invited lecture – Vellore Institute of Technology (VIT), India</b> <br>
-I was invited to give a talk on ‘Gene Therapy’ to the Bachelor and Master level students in the Biotechnology course at VIT, India. 
+I was invited to give a talk on ‘Gene Therapy’ to the  Master students in Biotechnology at VIT, India. 
 </p>
 
 <p align="justify" style="font-size:0.75em">
