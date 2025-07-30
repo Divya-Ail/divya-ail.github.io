@@ -55,8 +55,7 @@ Langhe R*, Chesneau A*, Colozza G, Hidalgo M, <b>Ail D</b>, Locker M, Perron M <
 Glia, 2016. Read and download the paper <a href="https://onlinelibrary.wiley.com/doi/10.1002/glia.23165">here</a> </li>  
 
 <li>Elucidating the mechanisms of HIF1A mediated age-realated retinal degeneration. <br>
-<b>Ail D</b> <br>
-University of Zurich, Switzerland, 2015. Read and download the thesis <a href="https://www.zora.uzh.ch/id/eprint/113085/">here</a> </li> 
+<b>Ail D</b> University of Zurich, Switzerland, 2015. Read and download the thesis <a href="https://www.zora.uzh.ch/id/eprint/113085/">here</a> </li> 
 
 <li>Increased expression of proton-sending G protein-coupled receptor Gpr65 during retina degeneration. <br>
 <b>Ail D</b>*, Rüfenacht V*, Caprara C, Samardzjia M, Grimm C <br>
@@ -164,8 +163,9 @@ I was invited to serve as a guest editor for a methods collection on <a href="ht
 <li><b>2021</b> Grant review for Swiss National Science Foundation (SNSF)  </li>
 </ul>
 ##### **Peer Reviews**
-<ul align="justify" style="font-size:0.75em">
-I have been invited to peer-review manuscripts (both original reserach and reviews) by various journals/publishers. <br>
+<p align="justify" style="font-size:0.75em">
+I have been invited to peer-review manuscripts (both original reserach and reviews) by various journals/publishers. </p>
+  <ul align="justify" style="font-size:0.75em">
   <li>Nature Publishing Group - Cell Death and Disease, Cell Death and Differentiation, Biodrugs. </li>
   <li>Cell Publishing - Cell Reports Medicine, Molecular Therpay - Methods and Clin. Dev. </li>
   <li>ARVO (Association for Research in Vision and ophthalmology) Journals - IOVS and TVST </li>
