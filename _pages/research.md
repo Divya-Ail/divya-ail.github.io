@@ -9,12 +9,11 @@ My research focuses on unraveling the molecular and cellular mechanisms involved
 Read more about my research projects below.
 </p>
 
-<h3><b>Gene therapy for neurodegenerative diseases</b></h3>
+<h4><b>Gene therapy for neurodegenerative diseases</b></h4>
 <p align="justify" style="font-size:0.75em">
 Mutations in genes that are involved in critical functions of neuronal cells result in cell dysfunction, cell death and diseases. Gene therapy is a promising treatment approach for such diseases aiming to treat such diseases by delivering therapeutic genes to the affected neurons using delivery vectors. Although some gene therapies have been approved and more are being developed, the immense potential of these therapies is marred by some important challenges such as lack of relevant translational models for testing these therapies before application in clinics and immune responses that can reduce the efficacy and safety of these treatments. <br>
-Read more about my projects related to some important challenges in development of gene therapies here.</p>
-
-#### **Understanding molecular mechanisms of neurodegeneration**
+Read more about my projects related to some important challenges in development of gene therapies here.</p> <br>
+<h4><b>Understanding molecular mechanisms of neurodegeneration</b></h4>
 <p align="justify" style="font-size:0.75em">
 Neurodegenerative diseases arise from progressive dysfunction and loss of neurons. Retinal degeneration encompasses a group of disorders characterized by the progressive loss of retinal neurons called photoreceptors and other retinal cells, leading to vision impairment and blindness. Understanding the molecular and cellular mechanisms underlying these conditions is crucial for developing effective treatments. Some key mechanisms involved in retinal degenerations include – oxidative stress, hypoxia, inflammation, protein misfolding and aggregation, impaired autophagy and abnormal angiogenesis. <br>
 Read more about my projects for understanding molecular mechanisms of neurodegeneration here.</p>
