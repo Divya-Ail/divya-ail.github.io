@@ -5,23 +5,22 @@ classes: wide
 ---
 
 #### **Original peer-reviewed articles**
-
 <ul align="justify" style="font-size:0.75em">
 <li>Evaluation of the transgene expression by digital droplet PCR after ocular gene transfer. <br>
-Ren D, Dalkara D, Fisson S, Ail D† <br>
+Ren D, Dalkara D, Fisson S, <b>Ail D†</b> <br>
 Journal of Visualized Experiments (JoVE), 2025 </li>
 
 <li>Inter-individual variability in immune responses to AAV-mediated ocular gene delivery across species impedes reliable immunomonitoring profile. <br>
-Ren D, Chauveau G, Vendomele J, Cabon E, Pineiro A, Vignal-Clermont C, Saliba H, Ronzitti G, Galy A, Dalkara D, Pulman J, Ail D, Fisson S <br>
-bioRxiv DOI: https://doi.org/10.1101/2025.06.02.656863, 2025 </li>
+Ren D, Chauveau G, Vendomele J, Cabon E, Pineiro A, Vignal-Clermont C, Saliba H, Ronzitti G, Galy A, Dalkara D, Pulman J, <b>Ail D</b>, Fisson S <br>
+bioRxiv, 2025 Read and Download the paper <a href="https://www.biorxiv.org/content/10.1101/2025.06.02.656863v2">here</a> </li>
 
 <li>Inducible non-human primate models of retinal degeneration for testing end stage therapies and understanding disease mechanisms. <br>
-Ail D†, Nava D, Hwang I, Brazhnikova E, Nouvel-Jaillard C, Dentel A, Joffris C, Rousseau L, Dégardin J, Bertin S, Sahel JA, Goureau O, Picaud S, Dalkara D† <br>
+<b>Ail D†</b>, Nava D, Hwang I, Brazhnikova E, Nouvel-Jaillard C, Dentel A, Joffris C, Rousseau L, Dégardin J, Bertin S, Sahel JA, Goureau O, Picaud S, Dalkara D† <br>
 Science Advances, 2023 <br>
 (DOI: 10.1126/sciadv.adg8163)  Download PDF </li>
 
 <li>Pre-existing neutralizing antibodies against different adeno-associated virus serotypes in large animal models. <br>
-Ail D† and Dalkara D <br>
+<b>Ail D†</b> and Dalkara D <br>
 Advances in Experimental Medicine and Biology, 2023 <br>
 (DOI: 10.1007/978-3-031-27681-1_18) Download PDF </li>
 
@@ -81,7 +80,6 @@ Journal of Cell Science, 2013 <br>
 (DOI:10.1242/jcs.128926) Download PDF </li>
 </ul>
 
-#### **Conferences**
 ##### **Conference Presentations**
 <ul align="justify" style="font-size:0.75em">
 <li><b>2024:</b> Symposium on Health and Sensory Receptors at HUST, China <br>
