@@ -31,7 +31,7 @@ Read more about my projects for understanding molecular mechanisms of neuroprote
 <h4><b>Developing Animal models to study disease mechanisms and test therapies</b></h4>
 <p align="justify" style="font-size:0.75em">
 Animal models are essential tools in biomedical research for studying disease mechanisms. By mimicking human physiological and pathological conditions, these models allow us to investigate how diseases develop and progress at molecular, cellular, and systemic levels. They are particularly valuable for exploring complex interactions that cannot be fully replicated in cell cultures or computer simulations. Insights gained from animal studies help identify potential therapeutic targets and guide the development of new treatments, although ethical considerations and species differences remain important factors in their use. Over the years, I have developed and worked with different animal models from frogs to non-human primates. <br>
-Read more about my projects involving different animal models <a href="https://divya-ail.github.io/animal models/">here</a> </p> 
+Read more about my projects involving different animal models <a href="https://divya-ail.github.io/animalmodels/">here</a> </p> 
 
 
 
