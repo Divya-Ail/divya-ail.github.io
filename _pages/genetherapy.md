@@ -16,7 +16,7 @@ Inherited Retinal Diseases (IRDs) are a group of genetic disorders that cause pr
 
 <p align="justify" style="font-size:0.75em">
 However, to ensure safety and efficacy of these therapies there are certain challenges that need to be addressed. 
-Read more about Gene therapy for retinal diseases <a href="https://doi.org/10.2147/TACG.S383453">here</a> 
-Adeno-Associated Virus (AAV) - Based Gene Therapies for Retinal Diseases: Where are We?
-Ail D, Malki H, Zin EA, Dalkara D 
+Read more about Gene therapy for retinal diseases <a href="https://doi.org/10.2147/TACG.S383453">here</a> <br>
+<b>Adeno-Associated Virus (AAV) - Based Gene Therapies for Retinal Diseases: Where are We?</b> <br>
+<b>Ail D</b>b>, Malki H, Zin EA, Dalkara D <br>
 The Application of Clinical Genetics, 2023 </p>
