@@ -11,7 +11,7 @@ The retina is a light-sensitive tissue at the back of the eye that plays a criti
 </p>
 
 <figure>
-<img src="/assets/images/regeneration1.png>
+<img src="/assets/images/regeneration1.png">
 <figcaption>Modes of regeneration of the frog retina (A) Structure of the retina. Schematic representation of a cross section of the zebrafish or Xenopus eye showing the different parts of the retina including the ciliary marginal zone (CMZ), (B) Schematic representation of the layers and the different cell types of the retina; (C-E) Modes of regeneration and repair - CMZ-mediated, RPE-mediated and Muller-cell mediated.</figcaption>
 </figure>
 
@@ -22,26 +22,22 @@ Read more about mechanisms of regeneration <a href="10.1007/s40139-017-0127-9">h
 Current Pathobiology Reports, 2017
 </p>
 
-<p align="justify" style="font-size:0.75em">
-If the frog species Xenopus laevis loses its retinal cells due to damage or degeneration, it can grow them back (meaning the frog can regenerate its retina). It is capable of doing so because of a pool of stem cells present in a special zone called CMZ (Ciliary Marginal Zone). A CMZ-like structure or a stem cell pool is not present in human retina. However, other cell types in the frog retina (RPE and Muller cells which are also present in humans) have shown some regenerative potential. So, the main goal of this project was to study the regeneration mechanisms in the frog retina and identify specific factors or pathways that can be activated in the mammalian retina to induce regeneration. 
-</p>
-
 <h5><b>Muller glia cell-mediated regeneration</b></h5>
 
 <p align="justify" style="font-size:0.75em">
 The retina is a complex tissue composed of many cell types. In addition to the neurons that are present in three distinct stratified layers, the retina is also composed of epithelial cells present as the retinal pigment epithelium (RPE) and glial cells (Muller cells, astrocytes and microglia). Müller glial cells are the principal support cells of the retina, providing structural, metabolic, and neuroprotective functions. <br>
-When the Xenopus retina is damaged, it is capable of complete regeneration as the retina has a special stem cell pool in the peripheral region of the retina called the ciliary margin zone (CMZ). A CMZ containing stem cell pool does not exist in the human retina. However, the human retina possesses Muller glial cells that are reported to show some plasticity and proliferative potential. As the regenerative potential of Muller glia cells was unexplored in Xenopus, we tackled this issue using two Xenopus retinal injury paradigms: a physical injury model (local damage model) and a transgenic model allowing for conditional photoreceptor cell ablation (global degeneration model). Using these models, we were able to show that when the photoreceptors are damaged or degenerated in the frog species – Xenopus laevis, Müller cells play a key role in retinal regeneration by reprogramming into retinal progenitor-like cells that can divide and replace the damaged neurons. 
+If the frog species Xenopus laevis loses its retinal cells due to damage or degeneration, it can grow them back (meaning the frog can regenerate its retina). It is capable of doing so because of a pool of stem cells present in a special zone called CMZ (Ciliary Marginal Zone). A CMZ-like structure or a stem cell pool is not present in human retina. However, other cell types in the frog retina (RPE and Muller cells which are also present in humans) have shown some regenerative potential. As the regenerative potential of Muller glia cells was unexplored in Xenopus, we tackled this issue using two Xenopus retinal injury paradigms: a physical injury model (local damage model) and a transgenic model allowing for conditional photoreceptor cell ablation (global degeneration model). Using these models, we were able to show that when the photoreceptors are damaged or degenerated in the frog species – Xenopus laevis, Müller cells play a key role in retinal regeneration by reprogramming into retinal progenitor-like cells that can divide and replace the damaged neurons. 
 </p>
 
 <figure>
-    <img src="/assets/images/regeneration2.png>
+    <img src="/assets/images/regeneration2.png">
     <figcaption>Regeneration of the frog retina. Tadpoles were subjected to retinal damage (by a strategy causing local injury) or degeneration (using a chemically induced genetic model causing loss of photoreceptors). In both cases there was proliferation of Muller cells that replaced the lost cells in the outer nuclear layer of the retina hence resulting in repair and regeneration.</figcaption>
 </figure>
 
 <p align="justify" style="font-size:0.75em">
-Read the details and the results of this project <a href="10.1002/glia.23165">here</a>
-Müller glial cell reactivation in Xenopus models of retinal degeneration. <br>
-Langhe R*, Chesneau A*, Colozza G, Hidalgo M, Ail D, Locker M, Perron M <br>
+Read the details and the results of this project <a href="10.1002/glia.23165">here</a> <br>
+<b>Müller glial cell reactivation in Xenopus models of retinal degeneration.</b> <br>
+Langhe R*, Chesneau A*, Colozza G, Hidalgo M, <b>Ail D</b>, Locker M, Perron M <br>
 Glia, 2016
 </p>
 
@@ -52,14 +48,14 @@ Normally following damage or degeneration the Xenopus retina regenerates using t
 </p>
 
 <figure>
-<img src="/assets/images/regeneration3.png>
+<img src="/assets/images/regeneration3.png">
 <figcaption>Identification and evaluation of the involvement of the molecule YAP in Muller cell-mediated regeneration of the frog retina.</figcaption>
 </figure>
 
 <p align="justify" style="font-size:0.75em">
 Read the details and the results of this project <a href="10.1016/j.celrep.2019.04.045">here</a> <br>
-Linking YAP to Muller glia quiescence exit in the degenerative retina. <br>
-Hamon A*, Ail D*, Garcia D*, Bitard J, Chesneau A, Dalkara D, Locker M, Roger J, Perron M <br>
+<b>Linking YAP to Muller glia quiescence exit in the degenerative retina.</b> <br>
+Hamon A*, <b>Ail D</b>*, Garcia D*, Bitard J, Chesneau A, Dalkara D, Locker M, Roger J, Perron M <br>
 Cell Reports, 2019
 </p>
 
