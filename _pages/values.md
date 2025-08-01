@@ -20,7 +20,7 @@ I helped organize a series of webinars, panel discussions and workshops on topic
 
 <h5><b>Education</b></h5> 
 <p align="justify" style="font-size:0.75em"> 
-<b>Volunteer teacher at <a href="https://www.divyadeepatrust.org">Kaliyuva Mane</a> orphanage in Mysore, India:</b> I worked as a volunteer teacher at Kaliyuva Mane - an alternative school run by the Divyadeepa Charitable trust in Mysore, India. The school caters to children who are mostly drop-outs from regular schools, abused children, some who worked as child laborers in nearby farms, orphans and who generally belonged to the marginalized sections of society. I was mainly involved in teaching basic school-level math and science, as well as helping with the development of visual and interactive teaching aids. I was also involved in aiding with the sustainable development of the school premises.</p>
+<b>Volunteer teacher at  orphanage in Kaliyuva Mane, Mysore, India:</b> I worked as a volunteer teacher at <a href="https://www.divyadeepatrust.org">Kaliyuva Mane</a> - an alternative school run by the Divyadeepa Charitable trust in Mysore, India. The school caters to children who are mostly drop-outs from regular schools, abused children, some who worked as child laborers in nearby farms, orphans and who generally belonged to the marginalized sections of society. I was mainly involved in teaching basic school-level math and science, as well as helping with the development of visual and interactive teaching aids. I was also involved in aiding with the sustainable development of the school premises.</p>
 
 <figure>
     <img src="/assets/images/values2.png"
