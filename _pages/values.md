@@ -14,7 +14,7 @@ There is a gender-gap that exists in the STEM (Science, Technology, Engineering 
 <a href="https://blog.igem.org/blog/2022/10/5/on-the-road-to-paris-overcoming-mental-health-challenges-in-stem">Mental Health Initiative:</a> In 2022 I was elected as the co-chair of the D&I committee. This year we made ‘Mental Health in STEM’ as the focus of our committee, as statistics have shown that one in three students experiences mental health issues and the prevalence is even higher among students belonging to the LGBTQ+ and minority communities. This situation has been further exacerbated during the pandemic and acknowledging the prevalence and persistence of these issues is the need of the hour. We had a dedicated booth at the iGEM competition where we conducted many the interactive events for students and other attendees. <br>
 I helped organize a series of webinars, panel discussions and workshops on topics such as ‘work-life balance’, ‘how to build a supportive network’, ‘awareness about neurodivergence’ by inviting speakers from different walks of life – we had a female particle physicist from CERN, an autistic researcher from USA and advocates of scientific policy-making. The students and researchers participated in very large numbers further highlighting the need for open dialogue on ‘mental health’. Exposure to first hand narratives of people facing discrimination due to explicit or implicit biases has also made me reflect on my own journey in the STEM field. And this reflection and self-awareness has strengthened my resolve to actively promote diversity, equity and inclusivity wherever I work. 
 <figure>
-    <img src="/assets/images/values1.png"
+    <img src="/assets/images/values1.png">
 </figure> </p>
 
 <h5><b>Education</b></h5> 
@@ -22,7 +22,7 @@ I helped organize a series of webinars, panel discussions and workshops on topic
 <b>Volunteer teacher at  orphanage in Kaliyuva Mane, Mysore, India:</b> I worked as a volunteer teacher at <a href="https://www.divyadeepatrust.org">Kaliyuva Mane</a> - an alternative school run by the Divyadeepa Charitable trust in Mysore, India. The school caters to children who are mostly drop-outs from regular schools, abused children, some who worked as child laborers in nearby farms, orphans and who generally belonged to the marginalized sections of society. I was mainly involved in teaching basic school-level math and science, as well as helping with the development of visual and interactive teaching aids. I was also involved in aiding with the sustainable development of the school premises.</p>
 
 <figure>
-    <img src="/assets/images/values2.png"
+    <img src="/assets/images/values2.png">
 </figure>
 
 <h5><b>Empowerment</b></h5> 
@@ -31,7 +31,7 @@ I helped organize a series of webinars, panel discussions and workshops on topic
 Read the <a href="https://drive.google.com/file/d/1W_CEWoIAaU_6e9tlEc3sEs_fVQ4OJQtg/view?usp=sharing">Annual Report 2011</a> and <a href="https://drive.google.com/file/d/1RIrCa6yzj4e8CaQ9NbfUzTs2VVEStk7L/view?usp=sharing">Annual Report 2010</a>
 
 <figure>
-    <img src="/assets/images/values3.png"
+    <img src="/assets/images/values3.png">
 </figure>
 
 <h5><b>Advocacy</b></h5> 
@@ -41,7 +41,7 @@ Take a look at my <a href="https://drive.google.com/file/d/187TtOvXNrYptr2zi_LFV
 </p>
 
 <figure>
-    <img src="/assets/images/values4.png"
+    <img src="/assets/images/values4.png">
 </figure>
 
 
