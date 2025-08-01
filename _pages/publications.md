@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 # title: "Publications"
-# classes: wide
+classes: wide
 ---
 
 #### **Original peer-reviewed articles**
