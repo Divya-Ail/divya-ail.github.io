@@ -15,7 +15,6 @@ There is a gender-gap that exists in the STEM (Science, Technology, Engineering 
 I helped organize a series of webinars, panel discussions and workshops on topics such as ‘work-life balance’, ‘how to build a supportive network’, ‘awareness about neurodivergence’ by inviting speakers from different walks of life – we had a female particle physicist from CERN, an autistic researcher from USA and advocates of scientific policy-making. The students and researchers participated in very large numbers further highlighting the need for open dialogue on ‘mental health’. Exposure to first hand narratives of people facing discrimination due to explicit or implicit biases has also made me reflect on my own journey in the STEM field. And this reflection and self-awareness has strengthened my resolve to actively promote diversity, equity and inclusivity wherever I work. 
 <figure>
     <img src="/assets/images/values1.png"
-         alt="iGEM - Diversity and Inclusion">
 </figure> </p>
 
 <h5><b>Education</b></h5> 
@@ -24,7 +23,6 @@ I helped organize a series of webinars, panel discussions and workshops on topic
 
 <figure>
     <img src="/assets/images/values2.png"
-         alt="Education - Divya Deepa charitable trust">
 </figure>
 
 <h5><b>Empowerment</b></h5> 
@@ -34,7 +32,6 @@ Read the <a href="https://drive.google.com/file/d/1W_CEWoIAaU_6e9tlEc3sEs_fVQ4OJ
 
 <figure>
     <img src="/assets/images/values3.png"
-         alt="Asha for education">
 </figure>
 
 <h5><b>Advocacy</b></h5> 
@@ -45,7 +42,6 @@ Take a look at my <a href="https://drive.google.com/file/d/187TtOvXNrYptr2zi_LFV
 
 <figure>
     <img src="/assets/images/values4.png"
-         alt="Round-table at United Nations">
 </figure>
 
 
