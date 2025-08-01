@@ -68,12 +68,19 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/divya-ail-4b1854b/"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://orcid.org/0000-0002-9122-5998"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-github"
+      url: "https://scholar.google.fr/citations?user=pxDf_MUAAAAJ&hl=en"
+    - label: "Web of Science"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.webofscience.com/wos/author/record/AAB-7567-2022"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-   #- label: "Instagram"
-   #  icon: "fab fa-fw fa-instagram"
-   #   url: "https://instagram.com/"
+    
 
 footer:
   links:
