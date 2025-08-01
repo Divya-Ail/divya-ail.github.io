@@ -24,14 +24,16 @@ Read the [Annual Report 2011](https://drive.google.com/file/d/1W_CEWoIAaU_6e9tlE
 {% include figure popup=true image_path="/assets/images/values3.png" %}
 
 <h5><b>Advocacy</b></h5> 
-<p align="justify" style="font-size:0.75em"> <br>
-<b>United Nations, Geneva, Switzerland</b> <br>
-In 2013, while I was serving as the general secretary of ‘Asha for education – Zurich chapter’, I was invited to participate at a round-table discussion at the International Labor Office of United Nations in Geneva, Switzerland. I was part of the panel discussion on involvement of scientific diaspora in home country development. I had this rare opportunity of interacting with social scientists and government officials which provided me a glimpse into governing and policy-making. <br>
-Take a look at my <a href="https://drive.google.com/file/d/187TtOvXNrYptr2zi_LFV-0QVrIxObs5t/view?usp=share_link">presentation</a> and the <a href="https://drive.google.com/file/d/1WHOLzroHfGcCCF-cLAzHJ4h5iC7sEva5/view?usp=sharing">report</a> from the UN round-table in Geneva. <br>
+<p align="justify" style="font-size:0.75em"> 
+<b>United Nations, Geneva, Switzerland:</b> In 2013, while I was serving as the general secretary of ‘Asha for education – Zurich chapter’, I was invited to participate at a round-table discussion at the International Labor Office of United Nations in Geneva, Switzerland. I was part of the panel discussion on involvement of scientific diaspora in home country development. I had this rare opportunity of interacting with social scientists and government officials which provided me a glimpse into governing and policy-making. <br>
+Take a look at my <a href="https://drive.google.com/file/d/187TtOvXNrYptr2zi_LFV-0QVrIxObs5t/view?usp=share_link">presentation</a> and the <a href="https://drive.google.com/file/d/1WHOLzroHfGcCCF-cLAzHJ4h5iC7sEva5/view?usp=sharing">report</a> from the UN round-table in Geneva.
 </p>
+
 <figure>
     <img src="/assets/images/values4.png”>
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
+
 
 
 
