@@ -64,14 +64,16 @@ As the host immune responses to AAV are being often overlooked or inadequately r
     <img src="/assets/images/genetherapy4.png">
     <figcaption> Schematic representation of evaluation of immune responses in Non-Human primates that received ocular gene therapy and a dose-dependent increase in immune responses.</figcaption>
 </figure>
-Read the results of this project and reviews on this topic below <br>
+
+
 <ul align="justify" style="font-size:0.75em">
+Read the results of this project and reviews on this topic below <br>
 <li><b>Systemic and local immune response to intraocular AAV vector administration in non-human primates</b> <br> 
 <b>Ail D</b>, Ren D, Brazhnikova E, Nouvel-Jaillard C, Bertin S, Fisson S, Dalkara D <br>
-Molecular Therapy – Methods and Clinical Development, 2022 Access <a href="https://www.cell.com/molecular-therapy-family/methods/fulltext/S2329-0501(22)00012-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2329050122000122%3Fshowall%3Dtrue">here</a> </li> <br>
+Molecular Therapy – Methods and Clinical Development, 2022 Access <a href="https://www.cell.com/molecular-therapy-family/methods/fulltext/S2329-0501(22)00012-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2329050122000122%3Fshowall%3Dtrue">here</a> </li>
 <li><b>Pre-existing neutralizing antibodies against different adeno-associated virus serotypes in large animal models</b> <br>
 <b>Ail D</b> and Dalkara D <br>
-Advances in Experimental Medicine and Biology, 2023 Access <a href="https://link.springer.com/chapter/10.1007/978-3-031-27681-1_18">here</a> </li> <br>
+Advances in Experimental Medicine and Biology, 2023 Access <a href="https://link.springer.com/chapter/10.1007/978-3-031-27681-1_18">here</a> </li>
 <li><b>Immune responses to gene editing by viral and non-viral delivery vectors used in retinal gene therapy</b>  <br>
 Ren D, Fisson S, Dalkara D and <b>Ail D</b> <br>
 Pharmaceutics, 2022 Access <a href="https://www.mdpi.com/1999-4923/14/9/1973">here</a> </li>
