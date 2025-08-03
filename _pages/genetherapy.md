@@ -1,7 +1,7 @@
 ---
 permalink: /genetherapy/
 # title: "Gene Therapy"
-classes: wide
+# classes: wide
 ---
 
 <h5><b>Gene therapy for neurodegenerative diseases</b></h5>
