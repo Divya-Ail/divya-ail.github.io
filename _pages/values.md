@@ -1,7 +1,7 @@
 ---
 permalink: /values/
 title: "Values I care about..."
-classes: wide
+# classes: wide
 ---
 
 <h5><b>Diversity and Inclusion</b></h5> 
