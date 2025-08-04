@@ -1,7 +1,7 @@
 ---
 permalink: /outreach/
 # title: "outreach"
-classes: wide
+# classes: wide
 ---
 
 <h5><b>Popular science communication – Pint of Science</b></h5>
