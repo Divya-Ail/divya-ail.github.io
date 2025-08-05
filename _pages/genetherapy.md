@@ -11,7 +11,6 @@ Inherited Retinal Diseases (IRDs) are a group of genetic disorders that cause pr
 
 <figure>
     <img src="/assets/images/genetherapy1.png">
-    <figcaption>Distribution of AAV serotypes (natural and engineered), gene therapy strategy and route of therapy administration across 53 clinical trials for retinal diseases.</figcaption>
 </figure>
 
 <p align="justify" style="font-size:0.75em">
@@ -21,7 +20,6 @@ Read more about Gene therapy for retinal diseases <a href="https://doi.org/10.21
 <b>Ail D</b>, Malki H, Zin EA, Dalkara D <br>
 The Application of Clinical Genetics, 2023 
 </p>
-
 
 <h5><b>Development of translational models for testing gene therapies</b></h5>
 
@@ -34,7 +32,6 @@ There are many rodent models (mice and rats) of retinal degeneration (RD) that s
 
 <figure>
     <img src="/assets/images/genetherapy2.png">
-    <figcaption> Development and testing of NHP model by the Crispr-Cas9 strategy.</figcaption>
 </figure>
 
 <p align="justify" style="font-size:0.75em">
@@ -53,7 +50,6 @@ The successful translation to clinics of AAV-mediated gene therapy for a retinal
 
 <figure>
     <img src="/assets/images/genetherapy3.png">
-    <figcaption> Schematic representation of immune responses to ocular gene therapy. Some components of viral and non-viral delivery methods present danger signals to the immune system. Exposure to these components prior to gene therapy can result in pre-existing immunity. Individuals without prior exposure can activate innate and adaptive mechanisms after receiving ocular gene therapy. Individuals with pre-existing immunity can generate neutralizing antibodies (NAbs) that eliminate the vector and further trigger innate and adaptive responses. Together, these responses can result in an adverse outcome of ocular gene therapy, such as clearance of transduced cells, inflammation and reduction in visual acuity.</figcaption>
 </figure>
 
 <p align="justify" style="font-size:0.75em">
@@ -62,7 +58,6 @@ As the host immune responses to AAV are being often overlooked or inadequately r
 
 <figure>
     <img src="/assets/images/genetherapy4.png">
-    <figcaption> Schematic representation of evaluation of immune responses in Non-Human primates that received ocular gene therapy and a dose-dependent increase in immune responses.</figcaption>
 </figure>
 
 
