@@ -1,7 +1,7 @@
 ---
 permalink: /neurodegeneration/
 # title: "Neurodegeneration"
-classes: wide
+# classes: wide
 ---
 
 <h5><b>Understanding molecular mechanisms of neurodegeneration</b></h5>
@@ -12,7 +12,6 @@ The retina is a highly specialized neural tissue that is constantly exposed to v
 
 <figure>
     <img src="/assets/images/neurodegeneration1.png">
-    <figcaption>Structure of the Retina and Retinal Degeneration. (A) Cross-section of the eye showing the different parts of the eye and the retinal tissue at the back of the eye; (B) Layers of the retina (Retinal pigment epithelium, Outer Nuclear Layer, Inner Nuclear Layer and Ganglion Cell Layer) showing the different cell types; (C) A image as seen by a person with normal vision or different types of Retinal Degenerative diseases (AMD, RP and DR).</figcaption>
 </figure>
 
 <h5><b>Hypoxic stress in the retina</b></h5>
@@ -23,7 +22,6 @@ The retina is a metabolically active tissue with high oxygen demand. Age-related
 
 <figure>
     <img src="/assets/images/neurodegeneration2.png">
-    <figcaption>HIF1A-mediated degeneration of the retina. (A) Schematic representation of the hypoxia signaling pathway showing the stabilization of the transcription factor HIF1A under hypoxic (low oxygen conditions), leading to transcription of HIF1A responsive genes; (B-E) Characteristic features of Age-related Macular Degeneration (AMD) are seen in the retina of the mouse with stabilization of HIF1A in the rod photoreceptors; (F) Transcriptomic analysis revealed several Differentially Regulated Genes (DEGs) in response to hypoxia.</figcaption>
 </figure>
 
 <p align="justify" style="font-size:0.75em">
@@ -41,7 +39,6 @@ In addition to hypoxic stress, the retina is also susceptible to other types of 
 
 <figure>
     <img src="/assets/images/neurodegeneration3.png">
-    <figcaption>G-protein coupled Receptor (GPR) upregulation during retinal degeneration (A-C) The gene expression levels of different GPRs were tested in a genetic mouse model of retinal degeneration and (D-F) in an induced mouse model (light-mediated) of retinal degeneration; (G) Retinal microglia activation in Gpr65 knock-out mice.</figcaption>
 </figure>
 
 <p align="justify" style="font-size:0.75em">
