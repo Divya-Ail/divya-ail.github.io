@@ -4,7 +4,7 @@ permalink: /neurodegeneration/
 # classes: wide
 ---
 
-<h5><b>Understanding molecular mechanisms of neurodegeneration</b></h5>
+<h5><b>Molecular mechanisms of neurodegeneration</b></h5>
 
 <p align="justify" style="font-size:0.75em">
 The retina is a highly specialized neural tissue that is constantly exposed to various stressors, which can compromise its function and contribute to vision-threatening diseases. Retinal stress refers to the physiological and molecular disturbances that disrupt homeostasis, leading to cellular dysfunction and degeneration. I aimed to understand the impact two such stresses namely hypoxia (caused by low oxygen) and pH stress (cause by an imbalance in pH) on the normal and the degenerating retina.  
