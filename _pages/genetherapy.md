@@ -4,7 +4,7 @@ permalink: /genetherapy/
 # classes: wide
 ---
 
-<h5><b>Gene therapy for neurodegenerative diseases</b></h5>
+<h6><b>Gene therapy for neurodegenerative diseases</b></h6>
 
 <p align="justify" style="font-size:0.75em">
 Inherited Retinal Diseases (IRDs) are a group of genetic disorders that cause progressive vision loss due to mutations in genes essential for retinal function. These diseases can affect different retinal cell types, including photoreceptors, retinal pigment epithelium (RPE), and retinal ganglion cells. Gene therapy is a promising treatment approach for such diseases aiming to treat such diseases by delivering therapeutic genes to the affected neurons using delivery vectors. Gene therapy is the manipulation of gene expression by gene replacement, gene knock-down, gene editing, non-coding RNA modifications etc. to achieve a therapeutic effect. This involves the delivery of a transgene (the therapeutic gene) packaged inside a delivery vector such as viral vectors, nanoparticles, liposomes etc. The most commonly used vector for retinal gene therapy is Adeno-associated Virus (AAV). In 2017, the first AAV-based gene therapy (Luxturna by Spark therapeutics) was approved for a rare retinal degenerative disease called Leber’s Congenital Amaurosis (LCA) caused by mutation in the RPE65 gene. The gene therapy consists of a correct version of RPE65 gene packaged in the AAV2 vector and delivered to the retina by subretinal injections. Since the success of Luxturna, many AAV-mediated therapies are being developed and several are in clinical trials. The new therapies in trial differ in the type of vector used (natural vs engineered), route of delivery (subretinal or intravitreal) and the therapy strategy (gene replacement, gene editing etc.) as shown below. </p> 
@@ -21,7 +21,7 @@ Read more about Gene therapy for retinal diseases <a href="https://doi.org/10.21
 The Application of Clinical Genetics, 2023 
 </p>
 
-<h5><b>Development of translational models for testing gene therapies</b></h5>
+<h6><b>Development of translational models for testing gene therapies</b></h6>
 
 <p align="justify" style="font-size:0.75em">
 There are many rodent models (mice and rats) of retinal degeneration (RD) that serve well to study retinal diseases and develop some therapies. However, there are several anatomical differences between the rodent and human retina that make rodents unsuitable for testing translational therapies. The non-human primate (NHP) retina is closest to humans and best suited for testing therapies before clinical trials. However, there is a lack of relevant NHP degeneration models that can be used for testing therapies. We addressed this unmet need by using different bioengineering strategies to develop three distinct inducible NHP models of RD – <br>
@@ -42,7 +42,7 @@ Read the details and the results of this project <a href="10.1126/sciadv.adg8163
 Science Advances, 2023 
 </p>
 
-<h5><b>Immune responses to gene therapy</b></h5>
+<h6><b>Immune responses to gene therapy</b></h6>
 
 <p align="justify" style="font-size:0.75em">
 The successful translation to clinics of AAV-mediated gene therapy for a retinal degenerative disorder has paved the way for development and testing of a new stream of therapies in this domain. One of the reasons for this success is believed to be a combination of the ‘low immunogenicity’ of AAVs and the ‘immune privilege’ of the eye. However, several studies and results from clinical trials have brought both these assumptions into question by consistently reporting on immune responses to ocular gene therapy. 
