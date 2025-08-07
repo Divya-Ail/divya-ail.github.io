@@ -1,5 +1,5 @@
 ---
-permalink: /animal models/
+permalink: /animalmodels/
 # title: "Animal models"
 # classes: wide
 ---
