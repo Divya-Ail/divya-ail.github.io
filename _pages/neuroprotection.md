@@ -1,7 +1,7 @@
 ---
 permalink: /neuroprotection/
 # title: "Neuroprotection"
-classes: wide
+# classes: wide
 ---
 
 <h6><b>Understanding molecular mechanisms of neuroprotection</b></h6>
