@@ -51,6 +51,7 @@ The models we have created can be used for testing a wide range of these therape
 
 <ul align="justify" style="font-size:0.75em">
 Read the details of my projects using NHP models - <br>
+
 <li> <b>Inducible non-human primate models of retinal degeneration for testing end stage therapies and understanding disease mechanisms</b> <br>
 <b>Ail D</b>, Nava D, Hwang I, Brazhnikova E, Nouvel-Jaillard C, Dentel A, Joffris C, Rousseau L, Dégardin J, Bertin S, Sahel JA, Goureau O, Picaud S, Dalkara D <br>
 Science Advances, 2023. Access article <a href="10.1126/sciadv.adg8163">here</a> </li>
@@ -85,6 +86,7 @@ To study acute hypoxia (short-term) hypoxia, mice were exposed to hypoxic condit
 
 <ul align="justify" style="font-size:0.75em">
 Read the details of my projects using rodent models - <br>
+
 <li> <b>Inducible non-human primate models of retinal degeneration for testing end stage therapies and understanding disease mechanisms</b> <br>
 <b>Ail D</b>, Nava D, Hwang I, Brazhnikova E, Nouvel-Jaillard C, Dentel A, Joffris C, Rousseau L, Dégardin J, Bertin S, Sahel JA, Goureau O, Picaud S, Dalkara D <br>
 Science Advances, 2023. Access paper <a href="10.1126/sciadv.adg8163">here</a> </li>
@@ -130,6 +132,7 @@ Further, we created other models that deleted or overexpressed the transcrition 
 
 <ul align="justify" style="font-size:0.75em">
 Read the details of my projects using frog models - <br>
+
 <li> <b>Retinal degeneration and regeneration – Lessons from fishes and amphibians</b> <br>
 <b>Ail D</b> and Perron M <br>
 Current Pathobiology Reports, 2017. Access paper <a href="10.1007/s40139-017-0127-9">here</a> </li>
@@ -143,7 +146,7 @@ Glia, 2016. Access paper <a href="10.1002/glia.23165">here</a> </li>
 <li> <b>Linking YAP to Muller glia quiescence exit in the degenerative retina</b> <br>
 Hamon A*, <b>Ail D</b>*, Garcia D*, Bitard J, Chesneau A, Dalkara D, Locker M, Roger J, Perron M <br>
 Cell Reports, 2019. Access paper <a href="10.1016/j.celrep.2019.04.045">here</a> </li>
-
+</ul>
 
 
 
