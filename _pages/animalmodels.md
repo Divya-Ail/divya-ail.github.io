@@ -5,9 +5,9 @@ permalink: /animalmodels/
 ---
 
 <h6><b>Developing Animal models to study disease mechanisms and test therapies</b></h6>
-
+<h6><b>Non-Human Primates (NHP)</b><h6>
+    
 <p align="justify" style="font-size:0.75em">
-<h6><b>Non-Human Primates (NHP)</b><h6> <br>
 Non-human primates (NHPs) are used as models in biomedical research because of their close genetic, physiological, and neurological similarities to humans. This makes them especially valuable for studying complex biological processes, such as brain function, immune responses, and infectious diseases, that cannot be accurately replicated in more distant species like rodents. <br>
 There are many rodent models (mice and rats) of retinal degeneration (RD) that serve well to study retinal diseases and develop some therapies. However, there are several anatomical differences between the rodent and human retina such as the size of the eye, the size and shape of the lens, the relative amount of vitreous and most importantly the presence of a central cone-rich region called macula and a cone-only region called fovea. The macula and fovea are responsible for high-acuity vision and these regions are absent in the rodents which affect how disease features appear and progress in these models, thereby making rodents unsuitable for testing translational therapies. 
 </p>
@@ -69,8 +69,9 @@ Molecular Therapy – Methods and Clinical Development, 2022. Access article <a 
 Advances in Experimental Medicine and Biology, 2023. Access article <a href="10.1007/978-3-031-27681-1_18">here</a></li>
 </ul>
 
+<h6><b>Rodent models (Mouse and Rats)</b><h6> 
+    
 <p align="justify" style="font-size:0.75em">
-<h6><b>Rodent models (Mouse and Rats)</b><h6> <br>
 Mice are widely used as models in biomedical research because they share a high degree of genetic similarity with humans, are small and inexpensive to maintain, and reproduce quickly, allowing for large-scale studies across generations. Their genomes are well-characterized and can be easily manipulated using genetic engineering techniques to study the roles of specific genes in health and disease. Despite some biological differences from humans, their versatility and the wealth of available research tools make them one of the most important model organisms in medical science. I have developed and worked with a variety of mouse models for over a decade and I have also had the need to perform experiments with rats for some of my projects. <br>
 
 The mouse is a widely used model for studying the retina and retinal degeneration due to its well-characterized genetics, anatomical similarity to the human retina, and the availability of numerous transgenic and knockout strains. Many genes implicated in human retinal diseases, such as retinitis pigmentosa and age-related macular degeneration, have homologs in mice, allowing us to replicate and investigate disease mechanisms in vivo. Mice also offer the advantage of advanced imaging techniques and functional assays, such as fundus imaging, optical coherence tomography (OCT) and electroretinography (ERG), to monitor retinal structure and function over time. These models have been instrumental in understanding the molecular pathways of retinal degeneration and in developing gene therapies and other potential treatments. <br>
@@ -115,8 +116,9 @@ Agca C, Gubler A, Traber G, Beck C, Imsand C, <b>Ail D</b>, Caprara C, Grimm C <
 Cell Death and Disease, 2013. Access paper <a href="10.1038/cddis.2013.323">here</a> </li>
 </ul>
 
+<h6><b>Amphibians (Frog)</b><h6>
+    
 <p align="justify" style="font-size:0.75em">
-<h6><b>Amphibians (Frog)</b><h6> <br>
 Frogs, particularly species like Xenopus laevis and Xenopus tropicalis, have served as valuable animal models in developmental biology due to their external development, large embryos, and ease of genetic manipulation. Their embryos are transparent and develop rapidly, allowing scientists to observe developmental processes in real time. Beyond development, Xenopus are widely being used as models for studying regeneration due to their remarkable ability to regrow damaged or lost tissues, especially in early life stages. Tadpoles can regenerate complex structures such as the tail, limbs, lens, spinal cord, and parts of the heart and brain and adult frogs also retain these regenerative capacities but to a limited extent. This ability makes them ideal models for uncovering the molecular and cellular mechanisms that drive regenerative processes. <br>
 
 We used these frogs as models to study retinal regeneration due to their natural ability to regenerate 
