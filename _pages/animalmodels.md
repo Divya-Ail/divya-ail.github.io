@@ -9,8 +9,7 @@ permalink: /animalmodels/
     
 <p align="justify" style="font-size:0.75em">
 Non-human primates (NHPs) are used as models in biomedical research because of their close genetic, physiological, and neurological similarities to humans. This makes them especially valuable for studying complex biological processes, such as brain function, immune responses, and infectious diseases, that cannot be accurately replicated in more distant species like rodents. <br>
-There are many rodent models (mice and rats) of retinal degeneration (RD) that serve well to study retinal diseases and develop some therapies. However, there are several anatomical differences between the rodent and human retina such as the size of the eye, the size and shape of the lens, the relative amount of vitreous and most importantly the presence of a central cone-rich region called macula and a cone-only region called fovea. The macula and fovea are responsible for high-acuity vision and these regions are absent in the rodents which affect how disease features appear and progress in these models, thereby making rodents unsuitable for testing translational therapies. 
-</p>
+There are many rodent models (mice and rats) of retinal degeneration (RD) that serve well to study retinal diseases and develop some therapies. However, there are several anatomical differences between the rodent and human retina such as the size of the eye, the size and shape of the lens, the relative amount of vitreous and most importantly the presence of a central cone-rich region called macula and a cone-only region called fovea. The macula and fovea are responsible for high-acuity vision and these regions are absent in the rodents which affect how disease features appear and progress in these models, thereby making rodents unsuitable for testing translational therapies. </p>
 
 <figure>
     <img src="/assets/images/animalmodels1.png">        
