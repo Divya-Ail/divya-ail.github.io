@@ -4,7 +4,6 @@ permalink: /animalmodels/
 # classes: wide
 ---
 
-<h6><b>Developing Animal models to study disease mechanisms and test therapies</b></h6>
 <h6><b>Non-Human Primates (NHP)</b><h6>
     
 <p align="justify" style="font-size:0.75em">
