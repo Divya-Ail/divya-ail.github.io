@@ -22,6 +22,10 @@ Read more about my projects related to some important challenges in development 
 Neurodegenerative diseases arise from progressive dysfunction and loss of neurons. Retinal degeneration encompasses a group of disorders characterized by the progressive loss of retinal neurons called photoreceptors and other retinal cells, leading to vision impairment and blindness. Understanding the molecular and cellular mechanisms underlying these conditions is crucial for developing effective treatments. Some key mechanisms involved in retinal degenerations include – oxidative stress, hypoxia, inflammation, protein misfolding and aggregation, impaired autophagy and abnormal angiogenesis. <br>
 Read more about my projects for understanding molecular mechanisms of neurodegeneration <a href="https://divya-ail.github.io/neurodegeneration/">here</a> </p> 
 
+<figure>
+    <img src="/assets/images/summary2.png">        
+</figure>
+
 <h4><b>Understanding molecular mechanisms of regeneration</b></h4>
 <p align="justify" style="font-size:0.75em">
 Regeneration is the biological process by which organisms repair, regrow, or replace damaged or lost tissues, organs, or even entire body parts. It occurs naturally in many species, ranging from simple organisms like hydra and planarians (which can regenerate whole bodies) to more complex animals like amphibians and fish (which can regenerate limbs, tails, or retinal cells). In humans and other mammals, regeneration is limited mostly to certain tissues, such as the liver (which can partially regenerate) and skin (which continuously repairs itself). However, other tissues, like the retina or the central nervous system, have very limited regenerative capacity. <br>
