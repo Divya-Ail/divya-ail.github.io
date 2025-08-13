@@ -14,7 +14,7 @@ Mutations in genes that are involved in critical functions of neuronal cells res
 Read more about my projects related to some important challenges in development of gene therapies <a href="https://divya-ail.github.io/genetherapy/">here</a> </p> 
 
 <figure>
-    <img src="/assets/images/summary1_v2.png">        
+    <img src="/assets/images/summary1.png">        
 </figure>
 
 <h4><b>Understanding molecular mechanisms of neurodegeneration</b></h4>
