@@ -31,6 +31,10 @@ Read more about my projects for understanding molecular mechanisms of neurodegen
 Regeneration is the biological process by which organisms repair, regrow, or replace damaged or lost tissues, organs, or even entire body parts. It occurs naturally in many species, ranging from simple organisms like hydra and planarians (which can regenerate whole bodies) to more complex animals like amphibians and fish (which can regenerate limbs, tails, or retinal cells). In humans and other mammals, regeneration is limited mostly to certain tissues, such as the liver (which can partially regenerate) and skin (which continuously repairs itself). However, other tissues, like the retina or the central nervous system, have very limited regenerative capacity. <br>
 Read more about my projects for understanding molecular mechanisms of regeneration <a href="https://divya-ail.github.io/regeneration/">here</a> </p> 
 
+<figure>
+    <img src="/assets/images/summary3.png">        
+</figure>
+
 <h4><b>Understanding molecular mechanisms of neuroprotection</b></h4>
 <p align="justify" style="font-size:0.75em">
 Neuroprotection is an umbrella term that is used to describe strategies and mechanisms that protect the neurons from damage and degeneration. Since the retina is an extension of the central nervous system (CNS), neuroprotection in the context of the retina refers to strategies and treatments aimed at preserving retinal neurons, particularly the photoreceptors and the retinal ganglion cells (RGCs) from damage or degeneration caused by diseases, injury, or aging. <br>
@@ -45,5 +49,8 @@ Read more about my projects for understanding molecular mechanisms of neuroprote
 Animal models are essential tools in biomedical research for studying disease mechanisms. By mimicking human physiological and pathological conditions, these models allow us to investigate how diseases develop and progress at molecular, cellular, and systemic levels. They are particularly valuable for exploring complex interactions that cannot be fully replicated in cell cultures or computer simulations. Insights gained from animal studies help identify potential therapeutic targets and guide the development of new treatments, although ethical considerations and species differences remain important factors in their use. Over the years, I have developed and worked with different animal models from frogs to non-human primates. <br>
 Read more about my projects involving different animal models <a href="https://divya-ail.github.io/animalmodels/">here</a> </p> 
 
+<figure>
+    <img src="/assets/images/summary5.png">        
+</figure>
 
 
