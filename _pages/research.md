@@ -36,6 +36,10 @@ Read more about my projects for understanding molecular mechanisms of regenerati
 Neuroprotection is an umbrella term that is used to describe strategies and mechanisms that protect the neurons from damage and degeneration. Since the retina is an extension of the central nervous system (CNS), neuroprotection in the context of the retina refers to strategies and treatments aimed at preserving retinal neurons, particularly the photoreceptors and the retinal ganglion cells (RGCs) from damage or degeneration caused by diseases, injury, or aging. <br>
 Read more about my projects for understanding molecular mechanisms of neuroprotection <a href="https://divya-ail.github.io/neuroprotection/">here</a></p> 
 
+<figure>
+    <img src="/assets/images/summary4.png">        
+</figure>
+
 <h4><b>Developing Animal models to study disease mechanisms and test therapies</b></h4>
 <p align="justify" style="font-size:0.75em">
 Animal models are essential tools in biomedical research for studying disease mechanisms. By mimicking human physiological and pathological conditions, these models allow us to investigate how diseases develop and progress at molecular, cellular, and systemic levels. They are particularly valuable for exploring complex interactions that cannot be fully replicated in cell cultures or computer simulations. Insights gained from animal studies help identify potential therapeutic targets and guide the development of new treatments, although ethical considerations and species differences remain important factors in their use. Over the years, I have developed and worked with different animal models from frogs to non-human primates. <br>
