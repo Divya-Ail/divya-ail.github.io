@@ -4,7 +4,7 @@ permalink: /animalmodels/
 # classes: wide
 ---
 
-<h6><b>Non-Human Primates (NHP)</b><h6>
+<h6><b>Non-Human Primates (NHP)</b></h6>
     
 <p align="justify" style="font-size:0.75em">
 Non-human primates (NHPs) are used as models in biomedical research because of their close genetic, physiological, and neurological similarities to humans. This makes them especially valuable for studying complex biological processes, such as brain function, immune responses, and infectious diseases, that cannot be accurately replicated in more distant species like rodents. <br>
