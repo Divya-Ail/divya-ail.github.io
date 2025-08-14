@@ -4,7 +4,7 @@ permalink: /research/
 classes: wide
 ---
 
-<p align="justify" style="font-size:0.75em">
+<p align="justify" style="margin-bottom:5mm; font-size:0.75em">
 My research focuses on unraveling the molecular and cellular mechanisms involved in genetic diseases. By gaining a deeper understanding of these fundamental processes, I strive to contribute to the development and testing of innovative therapies. <br>
 Read more about my research projects below. </p> 
 
