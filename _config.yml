@@ -69,7 +69,7 @@ author:
       icon: "fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/in/divya-ail-4b1854b/"
     - label: "Orcid"
-      icon: "fab fa-fw fa-instagram"
+      icon: "<i class="fa-brands fa-orcid"></i>"
       url: "https://orcid.org/0000-0002-9122-5998"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-github"
