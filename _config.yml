@@ -72,7 +72,7 @@ author:
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-9122-5998"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.fr/citations?user=pxDf_MUAAAAJ&hl=en"
     - label: "Web of Science"
       icon: "fab fa-fw fa-instagram"
