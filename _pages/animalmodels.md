@@ -10,33 +10,24 @@ permalink: /animalmodels/
 Non-human primates (NHPs) are used as models in biomedical research because of their close genetic, physiological, and neurological similarities to humans. This makes them especially valuable for studying complex biological processes, such as brain function, immune responses, and infectious diseases, that cannot be accurately replicated in more distant species like rodents. <br>
 There are many rodent models (mice and rats) of retinal degeneration (RD) that serve well to study retinal diseases and develop some therapies. However, there are several anatomical differences between the rodent and human retina such as the size of the eye, the size and shape of the lens, the relative amount of vitreous and most importantly the presence of a central cone-rich region called macula and a cone-only region called fovea. The macula and fovea are responsible for high-acuity vision and these regions are absent in the rodents which affect how disease features appear and progress in these models, thereby making rodents unsuitable for testing translational therapies. </p>
 
-<figure>
-    <img src="/assets/images/animalmodels1.png">        
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/animalmodels1.png">
 
 <p align="justify" style="font-size:0.75em">
 The non-human primate (NHP) retina is closest to humans and best suited for testing therapies before clinical trials. However, there is a lack of relevant NHP degeneration models that can be used for testing therapies. We addressed this unmet need by using different bioengineering strategies to develop three distinct inducible NHP models of RD – <br>
 
 <b>Optogenetic model:</b> In this model an optogene (a gene that can be activated by light) is packaged in AAVs and delivered to the NHP retina by subretinal injections. The optogene is specifically expressed in the rod photoreceptors due to the presence of a rod cell-specific promoter in the transgene design. The optogene can be activated by using light of a specific wavelength (green light of 565nm). The transparency of the eye allowing light to reach the retinal tissue enables optogene activation by exposing the eye to a light source of 565nm. Upon light activation the optogene becomes toxic and results in photoreceptor-cell death, resulting in cell loss and eventually retinal degeneration. </p>
 
-
-<figure>
-    <img src="/assets/images/animalmodels2.png">        
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/animalmodels2.png">
 
 <p align="justify" style="font-size:0.75em">
 <b>Crispr-Cas9 model:</b> This strategy involves the use of the Crispr-Cas9 system to disrupt the Rhodopsin gene. A Crispr guide is designed against the Rhodopsin gene, packaged into AAV vectors and delivered to the NHP retina by subretinal injections. Rhodopsin is a light-sensitive receptor protein found in the rod photoreceptor cells of the retina and plays a key role in visual phototransduction, the process by which light signal is detected and converted into electrical signal. Mutation in the Rhodopsin gene results in absence of this protein, inability to carry out phototransduction, loss of photoreceptor cells and eventual retinal degeneration. Mutation in the Rhodopsin gene is the most frequent mutation occurring in patients with the disease Retinitis Pigmentosa (RP), and hence this model mimics the RP disease features and progression. </p>
 
-<figure>
-    <img src="/assets/images/animalmodels3.png">        
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/animalmodels3.png">
 
 <p align="justify" style="font-size:0.75em">
 <b>Physical model:</b> This strategy involves using a polymer patch to create a physical separation between the photoreceptors and Retinal Pigment Epithelium (RPE). A polymer patch created with the same materials used in retinal prosthesis/ implants was surgically placed in the subretinal space of the macular region (close to the fovea but without including it). The photoreceptors depend on the RPE for their general maintenance and function. So, when this connection is disrupted, photoreceptors start dying eventually causing retinal degeneration. </p>
 
-<figure>
-    <img src="/assets/images/animalmodels4.png">        
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/animalmodels4.png">
 
 <p align="justify" style="font-size:0.75em">
 The models we have created can be used for testing a wide range of these therapeutic strategies. Degeneration of the retina occurs in stages and the chosen vision restoration method largely depends on the type and stage of the disease. In the earlier stages, when the retinal cells are still present neuroprotective factors can be provided to slow down the progression of the disease and gene replacement or editing can be used to compensate for the effect of gene mutations. On the other hand, in later stages when the retinal cells are mostly lost, mutation-independent vision restoration therapies such as stem cell therapy, optogenetic therapy and retinal prosthesis/ implants could help in restoring some useful vision. Additionally, specific therapies can control symptoms that arise from perturbed cellular mechanisms such as oxidative stress, inflammation or neovascularization. </p>
@@ -44,9 +35,7 @@ The models we have created can be used for testing a wide range of these therape
 <p align="justify" style="font-size:0.75em">
 <b>Evaluation of immune responses to therapy:</b> Injection of viruses, transgenes and other therapeutic agents can trigger an immune response which can reduce the efficacy of the treatment or result in inflammation compromising the safety of the treatment. We used the NHP models that I generated and other NHPs that received ocular gene therapies to study such immune responses. </p>
 
-<figure>
-    <img src="/assets/images/animalmodels5.png">        
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/animalmodels5.png">
 
 <ul align="justify" style="font-size:0.75em">
 Read the details of my projects using NHP models - <br>
@@ -64,7 +53,7 @@ Molecular Therapy – Methods and Clinical Development, 2022. Access article <a 
 Advances in Experimental Medicine and Biology, 2023. Access article <a href="10.1007/978-3-031-27681-1_18">here</a></li>
 </ul>
 
-<h6><b>Rodent models (Mouse and Rats)</b><h6> 
+<h6><b>Rodent models (Mouse and Rats)</b></h6>
     
 <p align="justify" style="font-size:0.75em">
 Mice are widely used as models in biomedical research because they share a high degree of genetic similarity with humans, are small and inexpensive to maintain, and reproduce quickly, allowing for large-scale studies across generations. Their genomes are well-characterized and can be easily manipulated using genetic engineering techniques to study the roles of specific genes in health and disease. Despite some biological differences from humans, their versatility and the wealth of available research tools make them one of the most important model organisms in medical science. I have developed and worked with a variety of mouse models for over a decade and I have also had the need to perform experiments with rats for some of my projects. <br>
@@ -79,9 +68,7 @@ The mouse is a widely used model for studying the retina and retinal degeneratio
 Another inducible model that I have extensively used is the light damage mouse model of retinal degeneration wherein photoreceptor cell death is induced by exposure to intense or prolonged light, mimicking aspects of human retinal diseases. In this model, mice—typically albino or light-sensitive strains—are exposed to high-intensity light (often >10,000 lux) for a defined period, leading to oxidative stress, inflammation, and apoptosis, primarily in rod photoreceptors.
 To study acute hypoxia (short-term) hypoxia, mice were exposed to hypoxic conditions, in contrast to the study of chronic and long-term hypoxia for which we developed the conditional knock-down models. Exposing mice to  hypoxic conditions allow us to assess the effects of low oxygen conditions on physiological responses such as changes in vascularization, oxidative stress, gene expression and inflammatory pathways. </p>
 
-<figure>
-    <img src="/assets/images/animalmodels6.png">        
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/animalmodels6.png">
 
 <ul align="justify" style="font-size:0.75em">
 Read the details of my projects using rodent models - <br>
@@ -111,7 +98,7 @@ Agca C, Gubler A, Traber G, Beck C, Imsand C, <b>Ail D</b>, Caprara C, Grimm C <
 Cell Death and Disease, 2013. Access paper <a href="10.1038/cddis.2013.323">here</a> </li>
 </ul>
 
-<h6><b>Amphibians (Frog)</b><h6>
+<h6><b>Amphibians (Frog)</b></h6>
     
 <p align="justify" style="font-size:0.75em">
 Frogs, particularly species like Xenopus laevis and Xenopus tropicalis, have served as valuable animal models in developmental biology due to their external development, large embryos, and ease of genetic manipulation. Their embryos are transparent and develop rapidly, allowing scientists to observe developmental processes in real time. Beyond development, Xenopus are widely being used as models for studying regeneration due to their remarkable ability to regrow damaged or lost tissues, especially in early life stages. Tadpoles can regenerate complex structures such as the tail, limbs, lens, spinal cord, and parts of the heart and brain and adult frogs also retain these regenerative capacities but to a limited extent. This ability makes them ideal models for uncovering the molecular and cellular mechanisms that drive regenerative processes. <br>
@@ -125,9 +112,7 @@ However, in order to analyze responses in a frog model more closely resembling h
 
 Further, we created other models that deleted or overexpressed the transcrition factor YAP to specifically test the impact of YAP on the regeneratio mechanism. This was achieved by using a transgeneic line of Xenopus that expressed a dominant negative version of YAP. This was designed to be induced upon heta-shock treatment. This line was crossed with the NTR-MTZ line. The resulting offsprings could be chemically treated (MTZ) to cause degeneration and treatted with heat-shock for YAP deletion. To create transgenic Xenopus that overexpresed YAP we used a YAPS98A construct. The Ser- 98 residue, which is the target of Lats phosphorylation (Ser-127 in mammalian YAP), has been substituted with alanine (S98A). YAPS98A is therefore insensitive to Hippo pathway-mediated inhibition and thus constitutively active. This YAPS98A construct is fused to the ligand-binding domain of the glucocorticoid receptor (GR), which allows its conditional activation upon addition of dexamethasone (Dex). </p>
 
-<figure>
-    <img src="/assets/images/animalmodels7.png">        
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/animalmodels7.png">
 
 <ul align="justify" style="font-size:0.75em">
 Read the details of my projects using frog models - <br>
