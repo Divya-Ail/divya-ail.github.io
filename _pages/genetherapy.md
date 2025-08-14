@@ -9,9 +9,7 @@ permalink: /genetherapy/
 <p align="justify" style="font-size:0.75em">
 Inherited Retinal Diseases (IRDs) are a group of genetic disorders that cause progressive vision loss due to mutations in genes essential for retinal function. These diseases can affect different retinal cell types, including photoreceptors, retinal pigment epithelium (RPE), and retinal ganglion cells. Gene therapy is a promising treatment approach for such diseases aiming to treat such diseases by delivering therapeutic genes to the affected neurons using delivery vectors. Gene therapy is the manipulation of gene expression by gene replacement, gene knock-down, gene editing, non-coding RNA modifications etc. to achieve a therapeutic effect. This involves the delivery of a transgene (the therapeutic gene) packaged inside a delivery vector such as viral vectors, nanoparticles, liposomes etc. The most commonly used vector for retinal gene therapy is Adeno-associated Virus (AAV). In 2017, the first AAV-based gene therapy (Luxturna by Spark therapeutics) was approved for a rare retinal degenerative disease called Leber’s Congenital Amaurosis (LCA) caused by mutation in the RPE65 gene. The gene therapy consists of a correct version of RPE65 gene packaged in the AAV2 vector and delivered to the retina by subretinal injections. Since the success of Luxturna, many AAV-mediated therapies are being developed and several are in clinical trials. The new therapies in trial differ in the type of vector used (natural vs engineered), route of delivery (subretinal or intravitreal) and the therapy strategy (gene replacement, gene editing etc.) as shown below. </p> 
 
-<figure>
-    <img src="/assets/images/genetherapy1.png">
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/genetherapy1.png">
 
 <p align="justify" style="font-size:0.75em">
 However, to ensure safety and efficacy of these therapies there are certain challenges that need to be addressed. 
@@ -30,9 +28,7 @@ There are many rodent models (mice and rats) of retinal degeneration (RD) that s
 <b>Physical model:</b> This strategy involves using a polymer patch to create a physical separation between the photoreceptors and Retinal Pigment Epithelium (RPE). A polymer patch created with the same materials used in retinal prosthesis/ implants was surgically placed in the subretinal space of the macular region (close to the fovea but without including it). The photoreceptors depend on the RPE for their general maintenance and function. So, when this connection is disrupted, photoreceptors start dying eventually causing retinal degeneration. 
 </p> 
 
-<figure>
-    <img src="/assets/images/genetherapy2.png">
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/genetherapy2.png">
 
 <p align="justify" style="font-size:0.75em">
 The models we have created can be used for testing a wide range of these therapeutic strategies. Degeneration of the retina occurs in stages and the chosen vision restoration method largely depends on the type and stage of the disease. In the earlier stages, when the retinal cells are still present neuroprotective factors can be provided to slow down the progression of the disease and gene replacement or editing can be used to compensate for the effect of gene mutations. On the other hand, in later stages when the retinal cells are mostly lost, mutation-independent vision restoration therapies such as stem cell therapy, optogenetic therapy and retinal prosthesis/ implants could help in restoring some useful vision. Additionally, specific therapies can control symptoms that arise from perturbed cellular mechanisms such as oxidative stress, inflammation or neovascularization. <br>
@@ -48,18 +44,13 @@ Science Advances, 2023
 The successful translation to clinics of AAV-mediated gene therapy for a retinal degenerative disorder has paved the way for development and testing of a new stream of therapies in this domain. One of the reasons for this success is believed to be a combination of the ‘low immunogenicity’ of AAVs and the ‘immune privilege’ of the eye. However, several studies and results from clinical trials have brought both these assumptions into question by consistently reporting on immune responses to ocular gene therapy. 
 </p>
 
-<figure>
-    <img src="/assets/images/genetherapy3.png">
-</figure>
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/genetherapy3.png">
 
 <p align="justify" style="font-size:0.75em">
 As the host immune responses to AAV are being often overlooked or inadequately reported, we aimed to systematically evaluate local and systemic immune responses in NHPs that had received intraocular injections with the different AAV serotypes. With this study we provide evidence correlating local immune responses (ocular inflammation) to systemic immune responses (antibodies in serum). Local immune responses in the eye can be detected using imaging techniques and measured by clinical grading of the levels of inflammation. Systemic immune responses can be measured in blood samples. Since the AAV (a virus) is detected as a foreign particle, it triggers an immune response resulting in generation of anti-AAV antibodies which can be detected and measured in the blood serum. The total antibodies present in the serum that can bind specifically to the AAV capsid are known as Binding Antibodies (BABs), and a subset of these called Neutralizing Antibodies (NABs) can render the AAV inactive. On one hand, NABs can adversely affect viral transduction, consequently reducing the efficacy of treatment; and on the other hand, BABs can bind to the AAV triggering an immune response, which can result in an inflammation. We observed significantly higher pre-existing serum BABs against AAV8 compared to other serotypes. Hence, the choice of serotype is species-dependent and influences the immune responses. We observed a dose-dependent increase in both BABs and NABs in the serums collected post-injection, irrespective of the AAV serotype or the mode of injection. We observed that the amounts and types of pre-existing antibodies were a good indicator of propensity towards inflammation, but their presence did not always lead to adverse effects, most likely due to regulatory mechanisms that control inflammation in the eye. Most importantly, through this study we were able to demonstrate a co-relation between the serum BAB levels with clinical grading of inflammation and levels of transgene expression. 
 </p>
 
-<figure>
-    <img src="/assets/images/genetherapy4.png">
-</figure>
-
+<img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/genetherapy4.png">
 
 <ul align="justify" style="font-size:0.75em">
 Read the results of this project and reviews on this topic below <br>
