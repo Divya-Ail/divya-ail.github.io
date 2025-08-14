@@ -37,7 +37,7 @@ The models we have created can be used for testing a wide range of these therape
 
 <img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/animalmodels5.png">
 
-<ul align="justify" style="font-size:0.5em">
+<ul align="justify" style="font-size:0.75em">
 Read the details of my projects using NHP models - <br>
 
 <li> <b>Inducible non-human primate models of retinal degeneration for testing end stage therapies and understanding disease mechanisms</b> <br>
