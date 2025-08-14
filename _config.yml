@@ -75,11 +75,11 @@ author:
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.fr/citations?user=pxDf_MUAAAAJ&hl=en"
     - label: "Web of Science"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fa-solid fa-microscope"
       url: "https://www.webofscience.com/wos/author/record/AAB-7567-2022"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    # label: "GitHub"
+    # icon: "fab fa-fw fa-github"
+    # url: "https://github.com/"
     
 
 footer:
