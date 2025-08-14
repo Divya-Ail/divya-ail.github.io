@@ -7,10 +7,7 @@ permalink: /outreach/
 <h5><b>Popular science communication – Pint of Science</b></h5>
 
 <p align="justify" style="font-size:0.75em;margin-bottom:0;"><a href="https://pintofscience.fr/event/from-disease-to-cure-viruses-at-work">Pint of Science</a> is an annual science festival that brings researchers out of the lab and into local pubs, cafes, and community spaces to share their latest discoveries with the public in a relaxed and informal setting. Founded in the UK in 2013, the event now takes place in dozens of countries worldwide, aiming to make science accessible and engaging for everyone. With talks spanning everything from astrophysics to neuroscience and climate change, Pint of Science encourages direct dialogue between scientists and curious minds over a pint—fostering community, curiosity, and a deeper appreciation for the scientific world. In 2025, I had the opportunity to present my work on ‘Gene therapy’ at a Pint of Science event at a local bar Pomme d’Eve in Paris, organized by DIM BioConvS and Faculté des Sciences - Université Paris Cité. Speaking on the topic “From Disease to Cure: Viruses at Work “, I discussed the fascinating role of viruses in modern medicine. Far from being mere agents of disease, how viruses can be engineered to become powerful tools in gene therapy, offering hope for conditions like blindness.</p>
-
-<figure>
-    <img src="/assets/images/outreach1.png">
-</figure>
+<img src="/assets/images/outreach1.png">
 
 <h5><b>Popular science communication - Famelab</b></h5>
 
