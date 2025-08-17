@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Divya Ail
-email:
+email:divyail3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Divya Ail. I am a researcher in the field of retinal neuroscience, with a focus on unraveling the molecular mechanisms involved in the normal functioning of the retina and the perturbations of these mechanisms in diseased state. 
+  My goal is to translate this fundamental understanding into the development of innovative, sight-restoring therapies for human patients. 
+  In addition to my expertise in molecular and cellular biology, I have extensive experience in creating and utilizing relevant animal models to investigate disease pathways and evaluate therapeutic strategies. 
+  Most importantly, my research is driven by the goal of bridging the gap between fundamental scientific discovery and clinical application in vision restoration, translating molecular insights into meaningful therapeutic advances for patients.
+twitter_username: Divya Ail
+github_username: Divya-Ail
 minimal_mistakes_skin: contrast
 search: true
 
@@ -56,11 +57,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
- # name   : "Divya Ail"
+  name   : "Divya Ail"
   avatar : "/assets/images/myphoto.png"
   bio    : "Researcher in Retinal Neuroscience"
+  location: "Paris, France"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
