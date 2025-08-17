@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+description: "Portfolio Divya Ail, Researcher in Retinal Neuroscience."
 classes: wide
 ---
 
