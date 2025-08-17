@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Divya Ail
+name: Divya Ail
 email: divyail3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Divya Ail. I am a researcher in the field of retinal neuroscience, with a focus on unraveling the molecular mechanisms involved in the normal functioning of the retina and the perturbations of these mechanisms in diseased state. 
