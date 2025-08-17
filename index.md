@@ -3,7 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: "Divya Ail"
 subtitle: "Researcher in Retinal Neuroscience"
 description: "Portfolio of Divya Ail, Researcher in Retinal Neuroscience."
 author_profile: true
