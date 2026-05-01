@@ -5,7 +5,10 @@ main:
     url: /publications/
   - title: "teaching"
     url: /teaching/
+  - title: "entrepreneurship"
+    url: /entrepreneurship/
   - title: "outreach"
     url: /outreach/
   - title: "values"
     url: /values/
+  
