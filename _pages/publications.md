@@ -6,13 +6,17 @@ classes: wide
 
 #### **Original peer-reviewed articles**
 <ul align="justify" style="font-size:0.75em">
-<li>Evaluation of the transgene expression by digital droplet PCR after ocular gene transfer. <br>
-Ren D, Dalkara D, Fisson S, <b>Ail D†</b> <br>
-Journal of Visualized Experiments (JoVE), 2025 </li>
+<li>Ocular gene therapy mediated by AAV vectors: an overview of immunosuppresive treatments and immunomonitoring of patients involved in clinical trials. <br>
+Ren D, Chauveau G, Cabon E, Vendomele J, Vignal-Clermont C, Saliba H, <b>Ail D</b>, Dalkara D, Fisson S <br>
+Progress in Retinal and Eye Research, 2026. Read and download the paper <a href="https://www.sciencedirect.com/science/article/pii/S1350946226000091?via%3Dihub">here</a> </li>
 
 <li>Inter-individual variability in immune responses to AAV-mediated ocular gene delivery across species impedes reliable immunomonitoring profile. <br>
 Ren D, Chauveau G, Vendomele J, Cabon E, Pineiro A, Vignal-Clermont C, Saliba H, Ronzitti G, Galy A, Dalkara D, Pulman J, <b>Ail D</b>, Fisson S <br>
-bioRxiv, 2025. Read and download the paper <a href="https://www.biorxiv.org/content/10.1101/2025.06.02.656863v2">here</a> </li>
+JCI Insights, 2026. Read and download the paper <a href="https://insight.jci.org/articles/view/199587">here</a> </li>
+
+<li>Evaluation of the transgene expression by digital droplet PCR after ocular gene transfer. <br>
+Ren D, Dalkara D, Fisson S, <b>Ail D†</b> <br>
+Journal of Visualized Experiments (JoVE), 2025 </li>
 
 <li>Inducible non-human primate models of retinal degeneration for testing end stage therapies and understanding disease mechanisms. <br>
 <b>Ail D†</b>, Nava D, Hwang I, Brazhnikova E, Nouvel-Jaillard C, Dentel A, Joffris C, Rousseau L, Dégardin J, Bertin S, Sahel JA, Goureau O, Picaud S, Dalkara D† <br>
