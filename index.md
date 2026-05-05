@@ -16,7 +16,7 @@ classes: wide
 #### **Education**
 
 <ul align="justify" style="font-size:0.75em"> 
-  <li style="padding-bottom: clamp(5px, 0.5vh, 5px)">aPhD in Neuroscience, University of Zurich, Switzerland</li>
-  <li style="padding-bottom: clamp(5px, 0.5vh, 5px)">MS in Molecular Bioengineering, Technical University of Dresden, Germany</li>
+  <li style="padding-bottom: clamp(3px, 0.25vh, 3px)">aPhD in Neuroscience, University of Zurich, Switzerland</li>
+  <li style="padding-bottom: clamp(3px, 0.25vh, 3px)">MS in Molecular Bioengineering, Technical University of Dresden, Germany</li>
   <li>BE in Biotechnology, Visveswaraya Technological University, India</li></ul>
 
