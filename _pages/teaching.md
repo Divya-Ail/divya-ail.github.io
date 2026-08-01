@@ -44,8 +44,7 @@ I mentored the HUST-UEVE-UPSaclay team on their project ‘Aqua Guardian 2’ wh
 I mentored the Evry-Paris-Saclay team on their project ‘Optogenesis’ which focused on using directed evolution to generate new variants of microbial opsins that can be used for vision restoration. Our team won the best hardware award, nomination for the best software and the iGEM gold medal. These achievements received attention and coverage from Centre Supélec, Evry University, Genopole and CEA.
 </p>
 
-<h5><b>Education</b></h5> 
-#### **Teaching Now**
+<h5><b>Teaching</b></h5> 
 <p align="justify" style="font-size:0.75em">
 <b>2024 - present: Courses in Undergraduate program in Life Sciences</b> <br>
 <b>University of Paris Saclay, France</b> <br>
