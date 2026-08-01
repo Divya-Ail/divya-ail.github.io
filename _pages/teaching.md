@@ -8,14 +8,13 @@ classes: wide
 <p align="justify" style="font-size:0.75em">
  <b>PhD Student:</b>Supervision of 1 PhD student since 2021 (Université Paris Saclay, France). <br>
  Thesis title: Characterization of immune  responses to Cas9 based gene editing in the retina. <br>
- Co-authored papers: Ren et.al, Journal of Visualized Experiments,2025 and <a href="https://www.biorxiv.org/content/10.1101/2025.06.02.656863v2">Ren et.al,2025</a> bioRxiv.
-</p>
-
+ Co-authored papers: <a href="https://insight.jci.org/articles/view/199587">Ren et.al,2026</a> JCI Insight and <a href="10.1016/j.preteyeres.2026.101443">Ren et.al,2026</a> Progress in Retinal and Eye Research. <br>
+ 
 <p align="justify" style="font-size:0.75em">
  <b>Master Students:</b>Mentored 5 students towards their Master thesis work. <br>
  2021: Université Paris Saclay,France.(co-supervision) <br>
  Thesis title: Humoral immune responses to ocular gene transfer in different animal models. <br>
- Co-authored papers: <a href="https://doi.org/10.1016/j.omtm.2022.01.011">Ail et.al,2022</a> Mol.Ther.Methods and Clin.Dev. and <a href="https://www.mdpi.com/1837708">Ren et.al,2022</a> Pharmaceutics. <br>
+ Co-authored papers: <a href="https://doi.org/10.1016/j.omtm.2022.01.011">Ail et.al,2022</a> Mol.Ther.Adv. and <a href="https://www.mdpi.com/1837708">Ren et.al,2022</a> Pharmaceutics. <br>
  2020: Université Paris Sciences et Lettres, France. <br>
  Thesis title: Analysis of AAV dependent immune responses in NHP retina. <br>
  2020: Université Paris Sciences et Lettres, France. <br>
