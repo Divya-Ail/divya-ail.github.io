@@ -46,7 +46,7 @@ I mentored the Evry-Paris-Saclay team on their project ‘Optogenesis’ which f
 
 <h5><b>Teaching</b></h5> 
 <p align="justify" style="font-size:0.75em">
-<b>2024 - present: Courses in Undergraduate program in Life Sciences</b> <br>
+<b>2024 - 2025: Courses in Undergraduate program in Life Sciences</b> <br>
 <b>University of Paris Saclay, France</b> <br>
 I am involved in the course content creation (both lecture and tutorial content), giving the lectures, conducting the tutorials, preparing and conducting the continuous evaluations throughout the semesters, preparing and grading of the final exam assesments. In addition I also participate in the pedagogical meetings for designing and updating the course modules. <br>
 I am responsible for the following modules in the undergraduate program in Life Sciences - <br>
