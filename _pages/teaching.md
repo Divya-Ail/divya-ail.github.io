@@ -8,7 +8,7 @@ classes: wide
 <p align="justify" style="font-size:0.75em">
  <b>PhD Student:</b>Supervision of 1 PhD student since 2021 (Université Paris Saclay, France). <br>
  Thesis title: Characterization of immune  responses to Cas9 based gene editing in the retina. <br>
- Co-authored papers: <a href="https://insight.jci.org/articles/view/199587">Ren et.al,2026</a> JCI Insight and <a href="10.1016/j.preteyeres.2026.101443">Ren et.al,2026</a> Progress in Retinal and Eye Research. <br>
+ Co-authored papers: <a href="https://insight.jci.org/articles/view/199587">Ren et.al,2026</a> JCI Insight and <a href="https://www.sciencedirect.com/science/article/pii/S1350946226000091?via%3Dihub">Ren et.al,2026</a> Progress in Retinal and Eye Research. <br>
  
 <p align="justify" style="font-size:0.75em">
  <b>Master Students:</b>Mentored 5 students towards their Master thesis work. <br>
