@@ -14,6 +14,10 @@ permalink: /entrepreneurship/
 
 <h6><b>Recognition and Impact</b></h6>
 
-<p align="justify" style="font-size:0.75em"> Our work at Neurotheia has been recognised for its potential to advance accessible healthcare innovation. The startup was selected as a winner of the <a href="https://www.genopole.fr/temps-forts/espace-presse/communiques-de-presse/shaker18-laureats-2026/?utm_source=newsletter&utm_medium=email&utm_campaign=nl154&mtm_campaign=newsletter&mtm_kwd=nl154">Genopole Shaker</a> incubator programme in France, and received a €5000 award in the HealthTech category of a competitive innovation challenge. This recognition supports our mission to translate cutting-edge research and technology into practical tools that expand access to eye care and reduce the global burden of preventable blindness.</p>  
+<p align="justify" style="font-size:0.75em"> Our work at Neurotheia has been recognised for its potential to advance accessible healthcare innovation. The startup was selected as a winner of the <a href="https://www.genopole.fr/temps-forts/espace-presse/communiques-de-presse/shaker18-laureats-2026/?utm_source=newsletter&utm_medium=email&utm_campaign=nl154&mtm_campaign=newsletter&mtm_kwd=nl154">Genopole Shaker</a> incubator programme in France, in the HealthTech category of a competitive innovation challenge. This recognition supports our mission to translate cutting-edge research and technology into practical tools that expand access to eye care and reduce the global burden of preventable blindness.</p>  
 
 <img style="margin-bottom:0mm;margin-top:0mm;" src="/assets/images/entrepreneurship2.png">
+
+<ul align="justify" style="font-size:0.75em"> 
+  <li style="margin-bottom: 0; padding-bottom: clamp(0.1px, 0.01vh, 0.1px)">2026, April: Genopole Shaker program, France</li>
+  <li style="margin-bottom: 0; padding-bottom: clamp(0.1px, 0.01vh, 0.1px)">2026, July: Winner of Business ideas competition by Enspire, University of Oxford, UK</li>
