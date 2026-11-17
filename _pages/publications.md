@@ -79,6 +79,9 @@ Journal of Cell Science, 2013. Read and download the paper <a href="https://jour
 </ul>
 ##### **Conference Presentations**
 <ul align="justify" style="font-size:0.75em">
+<li><b>2026</b> CRISPR Workshop at University of Oxford, UK <br>
+Developing a non-human primate model of retinal degeneration using CRISPR-Cas9. </li>
+
 <li><b>2024</b> Symposium on Health and Sensory Receptors at HUST, China <br>
 Immune challenges to gene therapies for sensory receptors in the eye. </li>
 
