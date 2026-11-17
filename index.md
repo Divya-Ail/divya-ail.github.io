@@ -16,6 +16,7 @@ classes: wide
 #### **Education**
 
 <ul align="justify" style="font-size:0.75em"> 
+  <li style="margin-bottom: 0; padding-bottom: clamp(0.1px, 0.01vh, 0.1px)">HDR (Habilitation), University of Paris-Saclay, France</li>
   <li style="margin-bottom: 0; padding-bottom: clamp(0.1px, 0.01vh, 0.1px)">PhD in Neuroscience, University of Zurich, Switzerland</li>
   <li style="margin-bottom: 0; padding-bottom: clamp(0.1px, 0.01vh, 0.1px)">MS in Molecular Bioengineering, Technical University of Dresden, Germany</li>
   <li>BE in Biotechnology, Visveswaraya Technological University, India</li></ul>
